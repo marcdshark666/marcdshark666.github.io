@@ -1,0 +1,18 @@
+{
+ "delning": {
+  "quiz-runner": {
+   "logg": [
+    {
+     "at": "2026-09-17T05:53:35.205Z",
+     "lage": "orange",
+     "av": "marc",
+     "vad": "set from CLI"
+    }
+   ],
+   "lage": "orange",
+   "at": "2026-09-17T05:53:35.205Z",
+   "av": "marc"
+  }
+ },
+ "uppdaterad": "2026-09-17T05:53:35.206Z"
+}
