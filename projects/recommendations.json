@@ -888,7 +888,7 @@
   {
    "id": "auto.botlabbet.vilande",
    "projekt": "botlabbet",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 61 days",
    "text": "The last change was 2026-07-19. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2127,7 +2127,7 @@
   {
    "id": "auto.bertils-halsoai.vilande",
    "projekt": "bertils-halsoai",
-   "titel": "Nothing has happened in 54 days",
+   "titel": "Nothing has happened in 55 days",
    "text": "The last change was 2026-07-25. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2829,7 +2829,7 @@
   {
    "id": "auto.gym-3d-streaks.vilande",
    "projekt": "gym-3d-streaks",
-   "titel": "Nothing has happened in 52 days",
+   "titel": "Nothing has happened in 53 days",
    "text": "The last change was 2026-07-27. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2846,7 +2846,7 @@
   {
    "id": "auto.lilianas-salud.vilande",
    "projekt": "lilianas-salud",
-   "titel": "Nothing has happened in 50 days",
+   "titel": "Nothing has happened in 51 days",
    "text": "The last change was 2026-07-29. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -6928,46 +6928,6 @@
    "rutin": null
   },
   {
-   "id": "auto.kalender-bradet.pausat-365",
-   "projekt": "kalender-bradet",
-   "titel": "Task #365 is paused",
-   "text": "«kalender-bradet: Årsstatistik\n\nEn sida som räknar: flest läkarbesök, mest träning, längsta streak, bästa månad. Konfetti på nyårsafton.\n\n(Re» was paused 2026-09-17. Remaining: unknown",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "medium",
-   "foljd": "A task here was started and never finished. The half-done work sits where it stopped, and nothing picks it back up on its own.",
-   "kalla": "scan",
-   "skapad": "2026-09-17T05:41:32.144Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "tgKey": "ucyzqarp",
-   "tgAt": "2026-09-17T23:00:29.566Z",
-   "tgMsg": 11212,
-   "rutin": null
-  },
-  {
-   "id": "auto.kalender-bradet.pausat-369",
-   "projekt": "kalender-bradet",
-   "titel": "Task #369 is paused",
-   "text": "«kalender-bradet: No dark mode\n\nNo @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in v» was paused 2026-09-17. Remaining: unknown",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "medium",
-   "foljd": "A task here was started and never finished. The half-done work sits where it stopped, and nothing picks it back up on its own.",
-   "kalla": "scan",
-   "skapad": "2026-09-17T05:41:32.144Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "tgKey": "4tpbkm54",
-   "tgAt": "2026-09-18T01:00:39.414Z",
-   "tgMsg": 11238,
-   "rutin": null
-  },
-  {
    "id": "auto.openevidence-consensus-medveta.port-krock",
    "projekt": "openevidence-consensus-medveta",
    "titel": "Port 5265 is shared with synergy-application-regarding, kalender-skogen",
@@ -7811,7 +7771,7 @@
    "projekt": "rutin.gadgetdrop-drain",
    "rutin": "GadgetDrop-Drain",
    "titel": "Has not run on its interval",
-   "text": "«GadgetDrop-Drain» (every 4 h) has not run when it should have. Last run: 2026-09-17 19:35.",
+   "text": "«GadgetDrop-Drain» (every 4 h) has not run when it should have. Last run: 2026-09-18 19:35.",
    "grad": 3,
    "nytta": "medium",
    "insats": "small",
@@ -8115,7 +8075,7 @@
   {
    "id": "auto.inbox-zero-hero.vilande",
    "projekt": "inbox-zero-hero",
-   "titel": "Nothing has happened in 46 days",
+   "titel": "Nothing has happened in 47 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -8285,7 +8245,7 @@
   {
    "id": "auto.restaurang-roulette.vilande",
    "projekt": "restaurang-roulette",
-   "titel": "Nothing has happened in 46 days",
+   "titel": "Nothing has happened in 47 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -9133,7 +9093,8 @@
    "atgardad": null,
    "tgKey": "fabighbg",
    "tgAt": "2026-09-18T07:40:33.454Z",
-   "tgMsg": 11360
+   "tgMsg": 11360,
+   "rutin": null
   },
   {
    "id": "auto.gadget-drop.rorelse",
@@ -9149,7 +9110,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.gadget-drop.stor-bild-10bky3",
@@ -9165,7 +9127,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.gadget-drop.stor-bild-11m9pk",
@@ -9181,7 +9144,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.gadget-drop.stor-bild-17vxuy",
@@ -9197,26 +9161,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
-  },
-  {
-   "id": "auto.inbox-zero-hero.pausat-397",
-   "projekt": "inbox-zero-hero",
-   "titel": "Task #397 is paused",
-   "text": "«inbox-zero-hero: Cannot be added to the home screen nicely\n\nhttps://inbox-zero-hero.vercel.app is missing apple-touch-icon and manifest. If » was paused 2026-09-17. Remaining: unknown",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "medium",
-   "foljd": "A task here was started and never finished. The half-done work sits where it stopped, and nothing picks it back up on its own.",
-   "kalla": "scan",
-   "skapad": "2026-09-18T05:40:18.867Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
    "atgardad": null,
-   "tgKey": "79aiwti1",
-   "tgAt": "2026-09-18T08:30:24.426Z",
-   "tgMsg": 11368
+   "rutin": null
   },
   {
    "id": "auto.inbox-zero-hero.ingen-kravfil",
@@ -9232,7 +9178,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.quiz-runner.fel-344",
@@ -9251,7 +9198,8 @@
    "atgardad": null,
    "tgKey": "7naiwhb3",
    "tgAt": "2026-09-18T08:30:45.797Z",
-   "tgMsg": 11370
+   "tgMsg": 11370,
+   "rutin": null
   },
   {
    "id": "auto.quiz-runner.tomt-catch-e46803",
@@ -9267,7 +9215,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.quiz-runner.console-e46803",
@@ -9283,7 +9232,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.quiz-runner.ej-private",
@@ -9299,7 +9249,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.quiz-runner.ingen-instruktion",
@@ -9315,7 +9266,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.rutin.rutin-catch-up-americas.fel",
@@ -9358,26 +9310,6 @@
    "tgMsg": 11379
   },
   {
-   "id": "auto.rutin.rutin-catch-up-india.fel",
-   "projekt": "rutin.rutin-catch-up-india",
-   "rutin": "Rutin-catch-up-india",
-   "titel": "The routine ended with an error",
-   "text": "«Rutin-catch-up-india» (the scheduler, daily 09:55) last returned: fel 0x1. Find out why and run it again.",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-09-18T05:40:18.867Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
-   "tgKey": "rscnv03u",
-   "tgAt": "2026-09-18T10:10:11.246Z",
-   "tgMsg": 11389
-  },
-  {
    "id": "auto.rutin.rutin-catch-up-nordics.fel",
    "projekt": "rutin.rutin-catch-up-nordics",
    "rutin": "Rutin-catch-up-nordics",
@@ -9398,26 +9330,6 @@
    "tgMsg": 11391
   },
   {
-   "id": "auto.rutin.sentinelpatrol-daglig.fel",
-   "projekt": "rutin.sentinelpatrol-daglig",
-   "rutin": "SentinelPatrol-Daglig",
-   "titel": "The routine ended with an error",
-   "text": "«SentinelPatrol-Daglig» (the scheduler, daily 08:00) last returned: avbruten (stoppad). Find out why and run it again.",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-09-18T05:40:18.867Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
-   "tgKey": "k3yyr11q",
-   "tgAt": "2026-09-18T11:00:14.855Z",
-   "tgMsg": 11400
-  },
-  {
    "id": "auto.the-work-list.eval-ptwpp4",
    "projekt": "the-work-list",
    "titel": "eval() in test-publish-skip.js",
@@ -9434,7 +9346,8 @@
    "atgardad": null,
    "tgKey": "kccnejcm",
    "tgAt": "2026-09-18T11:00:25.501Z",
-   "tgMsg": 11405
+   "tgMsg": 11405,
+   "rutin": null
   },
   {
    "id": "auto.the-work-list.fel-383",
@@ -9453,7 +9366,8 @@
    "atgardad": null,
    "tgKey": "ce2jqchc",
    "tgAt": "2026-09-18T11:50:16.826Z",
-   "tgMsg": 11420
+   "tgMsg": 11420,
+   "rutin": null
   },
   {
    "id": "auto.the-work-list.tomt-catch-c0ijlr",
@@ -9469,7 +9383,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.the-work-list.tomt-catch-srfcno",
@@ -9485,7 +9400,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.the-work-list.beskrivning-1w1p7z",
@@ -9501,7 +9417,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.3dcal.tomt-catch-5undjc",
@@ -9517,7 +9434,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.aaron-prints.inga-tester",
@@ -9533,7 +9451,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.bertils-halsoai.langfil-e50zl5",
@@ -9549,7 +9468,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cv-portal.sakerhetsheaders",
@@ -9565,7 +9485,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.dexcom-reklamations-assistent.sakerhetsheaders",
@@ -9581,7 +9502,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.idea-autopilot.fetch-utan-fel-17wpmz",
@@ -9597,7 +9519,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.jobbans-kandrswe.langfil-xlc8ql",
@@ -9613,7 +9536,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.jobbans-kandrswe.stor-fil-1s5b9o",
@@ -9629,7 +9553,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.jobbans-kandrswe.stor-fil-muood",
@@ -9645,7 +9570,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.jobbans-kandrswe.hemskarm",
@@ -9661,7 +9587,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.jobbans-kandrswe.ingen-favicon",
@@ -9677,7 +9604,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.kalender-bradet.inga-tester",
@@ -9693,7 +9621,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.kalender-bradet.ingen-kravfil",
@@ -9709,7 +9638,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.kalender-bradet.rorelse",
@@ -9725,7 +9655,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.kalender-bradet.sprak-rgqw08",
@@ -9741,7 +9672,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.kalender-skogen.tomt-catch-1tjt5t",
@@ -9757,7 +9689,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.lilianas-salud.sakerhetsheaders",
@@ -9773,7 +9706,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.marcs-halsoai.langfil-e50zl5",
@@ -9789,7 +9723,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.marcs-resell.fokusmarkering",
@@ -9805,7 +9740,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop.langfil-u91c2j",
@@ -9821,7 +9757,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop.tomt-catch-1jhf1x",
@@ -9837,7 +9774,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop.tomt-catch-1jt1gp",
@@ -9853,7 +9791,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop.tomt-catch-1rbbjj",
@@ -9869,7 +9808,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop.tomt-catch-fo6w8r",
@@ -9885,7 +9825,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop-daily.dubblett-1kdxl1",
@@ -9901,7 +9842,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.openevidence-consensus-medveta.sakerhetsheaders",
@@ -9917,7 +9859,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.openevidence-consensus-medveta.hemskarm",
@@ -9933,7 +9876,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.patientfall-daily.fokusmarkering",
@@ -9949,7 +9893,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.session-tracker.bom-1u3yte",
@@ -9965,7 +9910,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.sugar-buddy-bot.fetch-utan-fel-1uhxl9",
@@ -9981,7 +9927,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.tangentbordsapp-dar-skriva.tomt-catch-lxzzcj",
@@ -9997,7 +9944,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.ward-rush.tomt-catch-1f1ta4",
@@ -10013,7 +9961,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.ward-rush.tomt-catch-hkit77",
@@ -10029,7 +9978,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.allinclusive-finder.ingen-favicon",
@@ -10045,7 +9995,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.botlabbet.beskrivning-rgqw08",
@@ -10061,7 +10012,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cv-claude-dar.ingen-instruktion",
@@ -10077,7 +10029,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cynergi-med-flow.stor-bild-1vjot9",
@@ -10093,7 +10046,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cynergi-med-flow.stor-bild-6apvot",
@@ -10109,7 +10063,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cynergi-med-flow.stor-bild-ekxkqf",
@@ -10125,7 +10080,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cynergi-med-flow.stor-bild-wsodld",
@@ -10141,7 +10097,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.ddxai.ingen-robots",
@@ -10157,7 +10114,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.ddxai.morkt-lage",
@@ -10173,7 +10131,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.ddxai.noscript",
@@ -10189,12 +10148,13 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.fondkompassen.vilande",
    "projekt": "fondkompassen",
-   "titel": "Nothing has happened in 46 days",
+   "titel": "Nothing has happened in 47 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -10205,7 +10165,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.gmail-improvement-sliding.morkt-lage",
@@ -10221,7 +10182,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.gmail-improvement-sliding.noscript",
@@ -10237,7 +10199,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.gym-3d-streaks.hemskarm",
@@ -10253,7 +10216,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.klinisk-evidens.beskrivning-rgqw08",
@@ -10269,7 +10233,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.live-oversattare-samtal.beskrivning-ei5emo",
@@ -10285,7 +10250,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.live-oversattare-samtal.beskrivning-rgqw08",
@@ -10301,7 +10267,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.live-oversattare-samtal.ingen-instruktion",
@@ -10317,7 +10284,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.live-oversattare-samtal.ingen-robots",
@@ -10333,7 +10301,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.live-oversattare-samtal.morkt-lage",
@@ -10349,7 +10318,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.munder-difflin.ingen-instruktion",
@@ -10365,7 +10335,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.ovningsportal-bt-folk.hemskarm",
@@ -10381,7 +10352,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.packing-road.hemskarm",
@@ -10397,7 +10369,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.plaud-kalender.ingen-robots",
@@ -10413,7 +10386,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.plaud-kalender.noscript",
@@ -10429,7 +10403,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.skrivbordet.ingen-kravfil",
@@ -10445,7 +10420,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.spindelnatet.console-b46a78",
@@ -10461,7 +10437,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.stockholm-dag.hemskarm",
@@ -10477,7 +10454,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.synergy-application-regarding.hemskarm",
@@ -10493,7 +10471,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.tornet.beskrivning-rgqw08",
@@ -10509,7 +10488,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.us-proxy-browser.beskrivning-rgqw08",
@@ -10525,7 +10505,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.vakttornet.morkt-lage",
@@ -10541,7 +10522,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "rmu6jhikdldhs",
@@ -10593,107 +10575,1230 @@
    "tgKey": "4ousl3me",
    "tgAt": "2026-09-18T12:40:25.451Z",
    "tgMsg": 11435
+  },
+  {
+   "id": "auto.rutin.rutin-amazon-case-mailvakt.fel",
+   "projekt": "rutin.rutin-amazon-case-mailvakt",
+   "rutin": "Rutin-amazon-case-mailvakt",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-amazon-case-mailvakt» (the scheduler, daily 07:00, 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 23:00) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-catch-up-africa.fel",
+   "projekt": "rutin.rutin-catch-up-africa",
+   "rutin": "Rutin-catch-up-africa",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-catch-up-africa» (the scheduler, daily 14:25) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-catch-up-asia-pacific.fel",
+   "projekt": "rutin.rutin-catch-up-asia-pacific",
+   "rutin": "Rutin-catch-up-asia-pacific",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-catch-up-asia-pacific» (the scheduler, daily 07:25) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-catch-up-cee.fel",
+   "projekt": "rutin.rutin-catch-up-cee",
+   "rutin": "Rutin-catch-up-cee",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-catch-up-cee» (the scheduler, daily 13:10) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-catch-up-longform-master.fel",
+   "projekt": "rutin.rutin-catch-up-longform-master",
+   "rutin": "Rutin-catch-up-longform-master",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-catch-up-longform-master» (the scheduler, daily 18:05) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-drjonsson-etsy-verifiering.fel",
+   "projekt": "rutin.rutin-drjonsson-etsy-verifiering",
+   "rutin": "Rutin-drjonsson-etsy-verifiering",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-drjonsson-etsy-verifiering» (the scheduler, every 3 h) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.3dcal.tomt-catch-g4365f",
+   "projekt": "3dcal",
+   "titel": "2 empty catch blocks in pnpm-install.mjs",
+   "text": "scripts/pnpm-install.mjs swallows errors in 2 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.bertils-halsoai.sakerhetsheaders",
+   "projekt": "bertils-halsoai",
+   "titel": "No security headers in vercel.json",
+   "text": "https://bertils-halsoai.vercel.app responds without Content-Security-Policy, X-Frame-Options, or Referrer-Policy. Add a \"headers\" entry to vercel.json — the same set medhop already uses.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "The site does not tell browsers how it should be protected. That leaves it open to being framed inside someone else's page or having foreign code injected into it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.cv-portal.tomt-catch-17yz3j",
+   "projekt": "cv-portal",
+   "titel": "8 empty catch blocks in tesseract-core-relaxedsimd-lstm.js",
+   "text": "public/tess/tesseract-core-relaxedsimd-lstm.js swallows errors in 8 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.idea-autopilot.inga-tester",
+   "projekt": "idea-autopilot",
+   "titel": "No tests at all",
+   "text": "18 code files and not a single test. A smoke test that starts the project and checks the homepage responds catches most of what usually breaks.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "Nothing checks that the project still works. A change can break something without anyone noticing until you see it live.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.marcs-halsoai.sakerhetsheaders",
+   "projekt": "marcs-halsoai",
+   "titel": "No security headers in vercel.json",
+   "text": "https://marcs-halsoai.vercel.app responds without Content-Security-Policy, X-Frame-Options, or Referrer-Policy. Add a \"headers\" entry to vercel.json — the same set medhop already uses.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "The site does not tell browsers how it should be protected. That leaves it open to being framed inside someone else's page or having foreign code injected into it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop.tomt-catch-lxzzcj",
+   "projekt": "medhop",
+   "titel": "38 empty catch blocks in app.js",
+   "text": "app.js swallows errors in 38 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop.hemskarm",
+   "projekt": "medhop",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://medhop.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop.ingen-instruktion",
+   "projekt": "medhop",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop.ingen-robots",
+   "projekt": "medhop",
+   "titel": "No robots.txt",
+   "text": "https://medhop.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop.morkt-lage",
+   "projekt": "medhop",
+   "titel": "No dark mode",
+   "text": "No @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in variables and swap them in a dark rule.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "The page stays bright white for people whose phone is set to dark mode — glaring at night, and out of place.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop-daily.dubblett-1llsid",
+   "projekt": "medhop-daily",
+   "titel": "a3.html exists in 3 copies",
+   "text": "The same filename is in 3 places: outputs/2026-08-13-stills/a3.html, outputs/2026-08-14-stills/a3.html, outputs/2026-08-15-stills/a3.html. A fix in one copy doesn't reach the others. Decide which one is canonical and let the others import it.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "medium",
+   "foljd": "The same thing is written out in several places. Fix it in one and the other copies stay wrong — which is how two versions of the truth start.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.patientfall-daily.inga-tester",
+   "projekt": "patientfall-daily",
+   "titel": "No tests at all",
+   "text": "11 code files and not a single test. A smoke test that starts the project and checks the homepage responds catches most of what usually breaks.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "Nothing checks that the project still works. A change can break something without anyone noticing until you see it live.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.session-tracker.bom-1wuaxp",
+   "projekt": "session-tracker",
+   "titel": "BOM at the start of server.js",
+   "text": "server.js starts with a byte order mark. Node and Python trip on it (a hook rewritten in PowerShell silently stops working). Re-save the file as UTF-8 without BOM.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An invisible marker at the start of the file makes some tools refuse to read it. Things fail with errors that point nowhere useful.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.aaron-prints.beskrivning-1tj7xw",
+   "projekt": "aaron-prints",
+   "titel": "index.html is missing a description",
+   "text": "docs/index.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.allinclusive-finder.ingen-instruktion",
+   "projekt": "allinclusive-finder",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.botlabbet.hemskarm",
+   "projekt": "botlabbet",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://botlabbet.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.cv-claude-dar.ingen-robots",
+   "projekt": "cv-claude-dar",
+   "titel": "No robots.txt",
+   "text": "https://cv-claude-dar.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.dexcom-reklamations-assistent.beskrivning-rgqw08",
+   "projekt": "dexcom-reklamations-assistent",
+   "titel": "index.html is missing a description",
+   "text": "index.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gadget-drop.stor-bild-1kkvwh",
+   "projekt": "gadget-drop",
+   "titel": "vaseline-lotion.png is 1890 kB",
+   "text": "assets/products/_ersatta/vaseline-lotion.png is 1890 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gadget-drop.stor-bild-1kmdpv",
+   "projekt": "gadget-drop",
+   "titel": "cerave-moisturizing-cream-camay-rysk-kram.jpg is 2238 kB",
+   "text": "assets/products/_underkanda/cerave-moisturizing-cream-camay-rysk-kram.jpg is 2238 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gadget-drop.stor-bild-1q63ip",
+   "projekt": "gadget-drop",
+   "titel": "usb-c-hub.png is 1568 kB",
+   "text": "assets/products/_ersatta/usb-c-hub.png is 1568 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gadget-drop.stor-bild-8fni74",
+   "projekt": "gadget-drop",
+   "titel": "nintendo-switch-2.png is 1591 kB",
+   "text": "assets/products/_ersatta/nintendo-switch-2.png is 1591 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gadget-drop.stor-bild-njre4m",
+   "projekt": "gadget-drop",
+   "titel": "cetaphil-moisturizing-cream-camay-rysk-kram.jpg is 2238 kB",
+   "text": "assets/products/_underkanda/cetaphil-moisturizing-cream-camay-rysk-kram.jpg is 2238 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gmail-improvement-sliding.og-rgqw08",
+   "projekt": "gmail-improvement-sliding",
+   "titel": "index.html looks empty when shared",
+   "text": "index.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.gym-3d-streaks.ingen-instruktion",
+   "projekt": "gym-3d-streaks",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.jobbans-kandrswe.ingen-instruktion",
+   "projekt": "Jobbans-kanDrSwe",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.jobbans-kandrswe.ingen-robots",
+   "projekt": "Jobbans-kanDrSwe",
+   "titel": "No robots.txt",
+   "text": "https://jobbans-kandrswe.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.jobbans-kandrswe.morkt-lage",
+   "projekt": "Jobbans-kanDrSwe",
+   "titel": "No dark mode",
+   "text": "No @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in variables and swap them in a dark rule.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "The page stays bright white for people whose phone is set to dark mode — glaring at night, and out of place.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.jobbans-kandrswe.noopener-1n6j0j",
+   "projekt": "Jobbans-kanDrSwe",
+   "titel": "2 links without rel=\"noopener\"",
+   "text": "public/index.html opens 2 links in a new tab without rel=\"noopener noreferrer\". The opened page can then control your tab. Add the attribute.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A link that opens in a new tab hands the opened page some control over yours. A bad page can use that to send your visitor somewhere else.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.jobbans-kandrswe.noopener-1tj7xw",
+   "projekt": "Jobbans-kanDrSwe",
+   "titel": "2 links without rel=\"noopener\"",
+   "text": "docs/index.html opens 2 links in a new tab without rel=\"noopener noreferrer\". The opened page can then control your tab. Add the attribute.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A link that opens in a new tab hands the opened page some control over yours. A bad page can use that to send your visitor somewhere else.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.kalender-skogen.hemskarm",
+   "projekt": "kalender-skogen",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://kalenderskogen.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.klinisk-evidens.hemskarm",
+   "projekt": "klinisk-evidens",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://klinisk-evidens.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.language-learning-other.vilande",
+   "projekt": "language-learning-other",
+   "titel": "Nothing has happened in 45 days",
+   "text": "The last change was 2026-08-04. Decide: take the next step, or write in memory that the project is parked.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Nothing has happened here in a long while. Half-finished work goes stale, and picking it back up costs more the longer it waits.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.lilianas-salud.beskrivning-rgqw08",
+   "projekt": "lilianas-salud",
+   "titel": "index.html is missing a description",
+   "text": "index.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.live-oversattare-samtal.noscript",
+   "projekt": "live-oversattare-samtal",
+   "titel": "No fallback when the script does not load",
+   "text": "https://live-oversattare-samtal.vercel.app is rendered by JavaScript but has no <noscript>. If the network blips mid-load, the visitor sees a blank page with no explanation.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "If scripts do not load, the visitor gets a blank white page with no explanation of what went wrong.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.live-oversattare-samtal.og-10r96y",
+   "projekt": "live-oversattare-samtal",
+   "titel": "feature-graphic.html looks empty when shared",
+   "text": "tools/feature-graphic.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.live-oversattare-samtal.og-1pw79q",
+   "projekt": "live-oversattare-samtal",
+   "titel": "index.html looks empty when shared",
+   "text": "www/index.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.live-oversattare-samtal.og-1x9km5",
+   "projekt": "live-oversattare-samtal",
+   "titel": "icon.html looks empty when shared",
+   "text": "tools/icon.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.live-oversattare-samtal.og-ei5emo",
+   "projekt": "live-oversattare-samtal",
+   "titel": "privacy.html looks empty when shared",
+   "text": "privacy.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.marcs-resell.beskrivning-rgqw08",
+   "projekt": "marcs-resell",
+   "titel": "index.html is missing a description",
+   "text": "index.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.munder-difflin.morkt-lage",
+   "projekt": "munder-difflin",
+   "titel": "No dark mode",
+   "text": "No @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in variables and swap them in a dark rule.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "The page stays bright white for people whose phone is set to dark mode — glaring at night, and out of place.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.openevidence-consensus-medveta.ingen-instruktion",
+   "projekt": "openevidence-consensus-medveta",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.openevidence-consensus-medveta.ingen-kravfil",
+   "projekt": "openevidence-consensus-medveta",
+   "titel": "Python without requirements.txt",
+   "text": "The project has Python code but no requirements.txt or pyproject.toml. Next time the environment needs setting up it is guesswork. Freeze the dependencies with `pip freeze`.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "The project does not list what it needs to run. On another machine it fails, and the error will not say what is missing.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.ovningsportal-bt-folk.ingen-robots",
+   "projekt": "ovningsportal-bt-folk",
+   "titel": "No robots.txt",
+   "text": "https://ovningsportal-bt-folk.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.packing-road.ingen-robots",
+   "projekt": "packing-road",
+   "titel": "No robots.txt",
+   "text": "https://packing-road.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.plaud-kalender.og-rgqw08",
+   "projekt": "plaud-kalender",
+   "titel": "index.html looks empty when shared",
+   "text": "index.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.ingen-robots",
+   "projekt": "quiz-runner",
+   "titel": "No robots.txt",
+   "text": "https://quiz-rush-game.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.inget-las",
+   "projekt": "quiz-runner",
+   "titel": "No lockfile for the dependencies",
+   "text": "package.json has dependencies but there is no package-lock.json. The next install could pull different versions than the ones that work today. Run `npm install` and commit the lockfile.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "The project does not pin down which versions of its parts it uses. It can work today and break tomorrow with nothing changed on your end.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.inline-stil-1n6j0j",
+   "projekt": "quiz-runner",
+   "titel": "47 inline styles in index.html",
+   "text": "public/index.html has 47 style=\"…\" attributes. The look can not be changed in one place, and a CSP without 'unsafe-inline' disables them. Move them to classes.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "medium",
+   "foljd": "Styling is scattered through the page instead of kept in one place. Changing how something looks means hunting it down in many spots.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.morkt-lage",
+   "projekt": "quiz-runner",
+   "titel": "No dark mode",
+   "text": "No @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in variables and swap them in a dark rule.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "The page stays bright white for people whose phone is set to dark mode — glaring at night, and out of place.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.og-1fw3hw",
+   "projekt": "quiz-runner",
+   "titel": "qr-prov.html looks empty when shared",
+   "text": "qr-prov.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.skrivbordet.morkt-lage",
+   "projekt": "skrivbordet",
+   "titel": "No dark mode",
+   "text": "No @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in variables and swap them in a dark rule.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "The page stays bright white for people whose phone is set to dark mode — glaring at night, and out of place.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.spindelnatet.ingen-instruktion",
+   "projekt": "spindelnatet",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.stockholm-dag.ingen-favicon",
+   "projekt": "stockholm-dag",
+   "titel": "No favicon",
+   "text": "https://stockholm-dag.vercel.app shows without an icon in the tab and in mobile bookmarks. A line with <link rel=\"icon\" href=\"data:image/svg+xml,…\"> is enough.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "The tab shows a blank sheet instead of an icon. The site is harder to spot among open tabs and bookmarks.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.synergy-application-regarding.ingen-robots",
+   "projekt": "synergy-application-regarding",
+   "titel": "No robots.txt",
+   "text": "https://synergy-application-regarding.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.tangentbordsapp-dar-skriva.hemskarm",
+   "projekt": "tangentbordsapp-dar-skriva",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://tangentbordsapp-dar-skriva.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.the-work-list.beskrivning-fj8akw",
+   "projekt": "the-work-list",
+   "titel": "projects-routines.html is missing a description",
+   "text": "projects-routines.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.the-work-list.beskrivning-gsu9na",
+   "projekt": "the-work-list",
+   "titel": "projects-vercel.html is missing a description",
+   "text": "projects-vercel.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.the-work-list.beskrivning-j0nn21",
+   "projekt": "the-work-list",
+   "titel": "noder-template.html is missing a description",
+   "text": "noder-template.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.the-work-list.beskrivning-mt8a3n",
+   "projekt": "the-work-list",
+   "titel": "delad-template.html is missing a description",
+   "text": "delad-template.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.the-work-list.beskrivning-oq5zeg",
+   "projekt": "the-work-list",
+   "titel": "projects-github.html is missing a description",
+   "text": "projects-github.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.tornet.morkt-lage",
+   "projekt": "tornet",
+   "titel": "No dark mode",
+   "text": "No @media (prefers-color-scheme: dark). On a phone in dark mode the page lights up white. Put the colors in variables and swap them in a dark rule.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "half-day",
+   "foljd": "The page stays bright white for people whose phone is set to dark mode — glaring at night, and out of place.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.us-proxy-browser.hemskarm",
+   "projekt": "us-proxy-browser",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://us-proxy-browser.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.vakttornet.og-rgqw08",
+   "projekt": "vakttornet",
+   "titel": "index.html looks empty when shared",
+   "text": "index.html is missing og:title, og:description, and og:image. Paste the link into Telegram or iMessage and the card is just a bare address.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Sharing the link in a chat or on social media gives a bare address with no picture or title. Far fewer people click it.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.ward-rush.hemskarm",
+   "projekt": "ward-rush",
+   "titel": "Cannot be added to the home screen nicely",
+   "text": "https://ward-rush.vercel.app is missing apple-touch-icon and manifest. If Marc saves the page to the phone's home screen, the icon becomes a blurry screenshot instead of a real app icon.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Saving the site to a phone home screen gives a plain bookmark rather than something that opens like an app.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.ward-rush.ingen-instruktion",
+   "projekt": "ward-rush",
+   "titel": "No CLAUDE.md in the project",
+   "text": "The project has no CLAUDE.md/AGENTS.md, so every session starts by re-learning the patterns. Write down how it runs, where it lives live, and what must never be touched.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "An AI helper opening this project has no house rules to follow, so it guesses — and guesses differently every time.",
+   "kalla": "scan",
+   "skapad": "2026-09-19T05:40:54.668Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
   }
  ],
- "skannat": "2026-09-18T05:40:18.869Z",
+ "skannat": "2026-09-19T05:40:54.670Z",
  "ranson": {
-  "dag": "2026-09-18",
-  "nya": 87,
-  "kvar": 367,
+  "dag": "2026-09-19",
+  "nya": 72,
+  "kvar": 302,
   "perProjekt": [
    {
-    "projekt": "gadget-drop",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 5,
-    "kvar": 5
-   },
-   {
-    "projekt": "inbox-zero-hero",
-    "niva": "gold",
-    "ranson": 5,
-    "nya": 2,
-    "kvar": 0
-   },
-   {
-    "projekt": "quiz-runner",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 5,
-    "kvar": 11
-   },
-   {
-    "projekt": "rutin.rutin-catch-up-americas",
+    "projekt": "rutin.rutin-amazon-case-mailvakt",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.rutin-catch-up-emea",
+    "projekt": "rutin.rutin-catch-up-africa",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.rutin-catch-up-india",
+    "projekt": "rutin.rutin-catch-up-asia-pacific",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.rutin-catch-up-nordics",
+    "projekt": "rutin.rutin-catch-up-cee",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.sentinelpatrol-daglig",
+    "projekt": "rutin.rutin-catch-up-longform-master",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "the-work-list",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 5,
-    "kvar": 21
+    "projekt": "rutin.rutin-drjonsson-etsy-verifiering",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 0
    },
    {
     "projekt": "3dcal",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 3
-   },
-   {
-    "projekt": "aaron-prints",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 3
+    "kvar": 2
    },
    {
     "projekt": "bertils-halsoai",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 8
+    "kvar": 7
    },
    {
     "projekt": "cv-portal",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 9
-   },
-   {
-    "projekt": "dexcom-reklamations-assistent",
     "niva": null,
     "ranson": 1,
     "nya": 1,
@@ -10704,158 +11809,109 @@
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 3
-   },
-   {
-    "projekt": "Jobbans-kanDrSwe",
-    "niva": "gold",
-    "ranson": 5,
-    "nya": 5,
-    "kvar": 11
-   },
-   {
-    "projekt": "kalender-bradet",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 4,
-    "kvar": 0
-   },
-   {
-    "projekt": "kalender-skogen",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 7
-   },
-   {
-    "projekt": "lilianas-salud",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 6
+    "kvar": 2
    },
    {
     "projekt": "marcs-halsoai",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 8
-   },
-   {
-    "projekt": "marcs-resell",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 11
+    "kvar": 7
    },
    {
     "projekt": "medhop",
     "niva": "platinum",
     "ranson": 5,
     "nya": 5,
-    "kvar": 7
+    "kvar": 2
    },
    {
     "projekt": "medhop-daily",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 27
-   },
-   {
-    "projekt": "openevidence-consensus-medveta",
-    "niva": "silver",
-    "ranson": 2,
-    "nya": 2,
-    "kvar": 8
+    "kvar": 26
    },
    {
     "projekt": "patientfall-daily",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 54
+    "kvar": 53
    },
    {
     "projekt": "session-tracker",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 46
+    "kvar": 45
    },
    {
-    "projekt": "sugar-buddy-bot",
-    "niva": "gold",
-    "ranson": 5,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "tangentbordsapp-dar-skriva",
+    "projekt": "aaron-prints",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 6
-   },
-   {
-    "projekt": "ward-rush",
-    "niva": "silver",
-    "ranson": 2,
-    "nya": 2,
-    "kvar": 8
+    "kvar": 2
    },
    {
     "projekt": "allinclusive-finder",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 7
+    "kvar": 6
    },
    {
     "projekt": "botlabbet",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 7
+    "kvar": 6
    },
    {
     "projekt": "cv-claude-dar",
     "niva": "bronze",
     "ranson": 1,
     "nya": 1,
-    "kvar": 6
+    "kvar": 5
    },
    {
-    "projekt": "cynergi-med-flow",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 4,
-    "kvar": 0
-   },
-   {
-    "projekt": "ddxai",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 3,
-    "kvar": 0
-   },
-   {
-    "projekt": "fondkompassen",
+    "projekt": "dexcom-reklamations-assistent",
     "niva": null,
     "ranson": 1,
     "nya": 1,
+    "kvar": 7
+   },
+   {
+    "projekt": "gadget-drop",
+    "niva": "platinum",
+    "ranson": 5,
+    "nya": 5,
     "kvar": 0
    },
    {
     "projekt": "gmail-improvement-sliding",
     "niva": "silver",
     "ranson": 2,
-    "nya": 2,
-    "kvar": 1
+    "nya": 1,
+    "kvar": 0
    },
    {
     "projekt": "gym-3d-streaks",
     "niva": "bronze",
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 5
+   },
+   {
+    "projekt": "Jobbans-kanDrSwe",
+    "niva": "gold",
+    "ranson": 5,
+    "nya": 5,
+    "kvar": 6
+   },
+   {
+    "projekt": "kalender-skogen",
+    "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 6
@@ -10865,91 +11921,147 @@
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 9
+    "kvar": 8
+   },
+   {
+    "projekt": "language-learning-other",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 0
+   },
+   {
+    "projekt": "lilianas-salud",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 5
    },
    {
     "projekt": "live-oversattare-samtal",
     "niva": "gold",
     "ranson": 5,
     "nya": 5,
-    "kvar": 14
+    "kvar": 9
+   },
+   {
+    "projekt": "marcs-resell",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 10
    },
    {
     "projekt": "munder-difflin",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 5
+    "kvar": 4
+   },
+   {
+    "projekt": "openevidence-consensus-medveta",
+    "niva": "silver",
+    "ranson": 2,
+    "nya": 2,
+    "kvar": 6
    },
    {
     "projekt": "ovningsportal-bt-folk",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 5
+    "kvar": 4
    },
    {
     "projekt": "packing-road",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 6
+    "kvar": 5
    },
    {
     "projekt": "plaud-kalender",
     "niva": "silver",
     "ranson": 2,
-    "nya": 2,
-    "kvar": 1
+    "nya": 1,
+    "kvar": 0
+   },
+   {
+    "projekt": "quiz-runner",
+    "niva": "platinum",
+    "ranson": 5,
+    "nya": 5,
+    "kvar": 6
    },
    {
     "projekt": "skrivbordet",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 3
+    "kvar": 2
    },
    {
     "projekt": "spindelnatet",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 4
+    "kvar": 3
    },
    {
     "projekt": "stockholm-dag",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 7
+    "kvar": 6
    },
    {
     "projekt": "synergy-application-regarding",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 4
+    "kvar": 3
+   },
+   {
+    "projekt": "tangentbordsapp-dar-skriva",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 5
+   },
+   {
+    "projekt": "the-work-list",
+    "niva": "platinum",
+    "ranson": 5,
+    "nya": 5,
+    "kvar": 16
    },
    {
     "projekt": "tornet",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 3
+    "kvar": 2
    },
    {
     "projekt": "us-proxy-browser",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 8
+    "kvar": 7
    },
    {
     "projekt": "vakttornet",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 1
+    "kvar": 0
+   },
+   {
+    "projekt": "ward-rush",
+    "niva": "silver",
+    "ranson": 2,
+    "nya": 2,
+    "kvar": 6
    }
   ]
  }
