@@ -11739,6 +11739,21 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null
+  },
+  {
+   "id": "rmu7yxfrtkjnv",
+   "projekt": "kalender-bradet",
+   "titel": "Mål per vecka",
+   "text": "Sätt ett poängmål (t.ex. 500) och visa en ring runt HUD:en som fylls. Konfetti när målet nås.",
+   "grad": 2,
+   "nytta": "",
+   "insats": "",
+   "foljd": "",
+   "kalla": "daglig-rek",
+   "skapad": "2026-09-19T05:50:10.457Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null
   }
  ],
  "skannat": "2026-09-19T05:40:54.670Z",
