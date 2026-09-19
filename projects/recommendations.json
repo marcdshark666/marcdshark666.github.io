@@ -1131,7 +1131,7 @@
    "nytta": "hög",
    "insats": "liten",
    "titel": "8 vakthundar svarar inte",
-   "text": "Vakthund 1 (puls 1219 min sedan), Vakthund 2 (puls 1219 min sedan), Vakthund 3 (puls 1219 min sedan), Vakthund 4 (puls 1219 min sedan), Vakthund 5 (puls 1219 min sedan), Vakthund 6 (puls 1218 min sedan), Vakthund 7 (puls 1218 min sedan), Vakthund 8 (puls 1219 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
+   "text": "Vakthund 1 (puls 1220 min sedan), Vakthund 2 (puls 1220 min sedan), Vakthund 3 (puls 1220 min sedan), Vakthund 4 (puls 1220 min sedan), Vakthund 5 (puls 1220 min sedan), Vakthund 6 (puls 1219 min sedan), Vakthund 7 (puls 1219 min sedan), Vakthund 8 (puls 1220 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
    "skapad": "2026-09-07T17:35:12.899Z",
    "beslut": "implementera",
    "beslutAt": "2026-09-08T07:23:40.833Z",
@@ -10591,7 +10591,10 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
+   "tgKey": "lp5yi295",
+   "tgAt": "2026-09-19T05:41:15.699Z",
+   "tgMsg": 12055
   },
   {
    "id": "auto.rutin.rutin-catch-up-africa.fel",
@@ -10608,7 +10611,10 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
+   "tgKey": "lz5frrmc",
+   "tgAt": "2026-09-19T05:41:25.640Z",
+   "tgMsg": 12057
   },
   {
    "id": "auto.rutin.rutin-catch-up-asia-pacific.fel",
