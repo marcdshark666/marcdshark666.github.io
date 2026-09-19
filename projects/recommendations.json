@@ -1131,7 +1131,7 @@
    "nytta": "hög",
    "insats": "liten",
    "titel": "8 vakthundar svarar inte",
-   "text": "Vakthund 1 (puls 1259 min sedan), Vakthund 2 (puls 1259 min sedan), Vakthund 3 (puls 1259 min sedan), Vakthund 4 (puls 1259 min sedan), Vakthund 5 (puls 1259 min sedan), Vakthund 6 (puls 1258 min sedan), Vakthund 7 (puls 1258 min sedan), Vakthund 8 (puls 1259 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
+   "text": "Vakthund 1 (puls 1289 min sedan), Vakthund 2 (puls 1289 min sedan), Vakthund 3 (puls 1289 min sedan), Vakthund 4 (puls 1289 min sedan), Vakthund 5 (puls 1289 min sedan), Vakthund 6 (puls 1288 min sedan), Vakthund 7 (puls 1288 min sedan), Vakthund 8 (puls 1289 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
    "skapad": "2026-09-07T17:35:12.899Z",
    "beslut": "implementera",
    "beslutAt": "2026-09-08T07:23:40.833Z",
@@ -10631,7 +10631,10 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
+   "tgKey": "2g1sk80d",
+   "tgAt": "2026-09-19T06:50:05.675Z",
+   "tgMsg": 12102
   },
   {
    "id": "auto.rutin.rutin-catch-up-cee.fel",
@@ -10648,7 +10651,10 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
+   "tgKey": "2hv0lsto",
+   "tgAt": "2026-09-19T06:50:07.848Z",
+   "tgMsg": 12104
   },
   {
    "id": "auto.rutin.rutin-catch-up-longform-master.fel",
