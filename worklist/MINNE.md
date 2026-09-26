@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:01. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:22. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,8 +24,8 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 10:00 (Antigravity)
-- Listan: 0 öppna · 0 pausade · 0 pågår
-- Claude: redo — last 25/09 18:22: klar
+- Listan: 1 öppna · 0 pausade · 1 pågår
+- Claude: kör — run 2026-09-26-0820 in progress
 - Codex: redo — last 24/09 17:43: klar
 - Antigravity: redo — last 20/09 02:32: klar
 
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 26/09 08:22 | Claude | Claude | #668 | start | Söker i Gmail efter en fungerande Amazon Seller Support-adress och skickar ett uppföljningsmejl om case 22075043231 med referens till supportärendena · projekt marcs-resell |  |
+| 26/09 08:21 | Claude | bevakningen |  | pass | pass 2026-09-26-0820 börjar (bevakningen): 2 att göra, turordning Claude → Codex → Antigravity |  |
 | 26/09 08:01 | Codex | schemat |  | pass-slut | pass 2026-09-26-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
 | 26/09 06:00 | Claude | schemat |  | pass-slut | pass 2026-09-26-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
 | 26/09 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-26-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
