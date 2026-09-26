@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:32. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:48. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 10:00 (Antigravity)
-- Listan: 0 öppna · 0 pausade · 1 pågår
+- Listan: 0 öppna · 1 pausade · 0 pågår
 - Claude: kör — run 2026-09-26-0820 in progress
 - Codex: redo — last 24/09 17:43: klar
 - Antigravity: redo — last 20/09 02:32: klar
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 26/09 08:48 | Claude | Claude | #669 | paus | Väntar på Marcs tillstånd: den nya frågan (08:36) fick inget svar inom 15 min, så ingenting laddades upp. Kvar: vid Marcs ✅ kör 'queue_backlog.py --max 1 --packs-first' i gadget-drop. Det laddar bara upp CarPlay-videon (2027-02-01, video_id saknas i history.json). | nästa pass fortsätter där det slutade |
+| 26/09 08:33 | Claude | Claude | #669 | note | Ny godkännandefråga skickad i Telegram (🛂-boten, uppdrag #669, 15 min). Vid ✅ laddas bara CarPlay-videon upp; vid nej/inget svar görs ingenting. |  |
 | 26/09 08:32 | Claude | Claude | #669 | start | Marcs ✅ på CarPlay-uppladdningen kom 08:16, efter att frågan gått ut (07:51 + 15 min) – ingenting verkställdes. Ställer en ny godkännandefråga och laddar sedan upp just den videon via queue_backlog --max 1. · projekt gadget-drop |  |
 | 26/09 08:23 | Claude | Claude | #668 | fail | Mejl går inte fram: Amazons säljaradresser tar inte emot mejl. Texten ligger klar som utkast i Gmail (🔴 Case ID 22075043231). Marc: kopiera den till Case log: sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22075043231 och tryck Send. | Marc behöver agera |
 | 26/09 08:23 | Claude | Claude | #668 | note | Gmail genomsökt: alla Amazons säljaradresser (seller.service05, siv-sesu-en-appeal) tar inte emot mejl – mejl dit studsar. Utkast skrivet i Gmail (Utkast, ämne '🔴 Case ID 22075043231 – No response…') med case 22075043231 + 22074639341, chattarna med Devi/Alen, löftet om 24 h och frågan varför butiken inte kan öppnas. |  |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 22/09 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-22-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
 | 22/09 02:00 | Codex | schemat |  | pass-slut | pass 2026-09-22-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
 | 22/09 00:37 | Claude | bevakningen |  | pass-slut | pass 2026-09-22-0030 slut: 1 klara, 3 hinder, 0 kvar — Claude: hoppades över: claude är utloggad på datorn — Marc: kör `claude auth login` i en terminal · Codex: klar | nästa pass 02:00 Codex |
-| 22/09 00:37 | Codex | Codex 101/102 (codex exec) |  | steg-klart | Codex: klar (0 kvar) |  |
-| 22/09 00:30 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 4 parallellt) |  | hoppade-over | Claude: hoppades över: claude är utloggad på datorn — Marc: kör `claude auth login` i en terminal (4 kvar) | Codex tar över |
