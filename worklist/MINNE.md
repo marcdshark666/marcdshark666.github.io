@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 09:06. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 09:07. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 10:00 (Antigravity)
-- Listan: 0 öppna · 1 pausade · 1 pågår
+- Listan: 0 öppna · 1 pausade · 0 pågår
 - Claude: kör — run 2026-09-26-0902 in progress
 - Codex: redo — last 24/09 17:43: klar
 - Antigravity: redo — last 20/09 02:32: klar
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 26/09 09:07 | Claude | Claude | #680 | done | Restlistan genomgången: enda posten #669 (CarPlay-uppladdning) frågades om i Telegram 09:05 men fick inget svar på 30 min, så den ligger pausad och väntar på Marcs ✅. Inget annat kvar för Mr Gadget idag. https://marcdshark666.github.io/paus |  |
 | 26/09 09:06 | Claude | Claude | #669 | paus | Väntar på Marcs tillstånd: tredje frågan (09:05, 30 min) fick inget svar – ingenting laddades upp. Kvar: vid Marcs ✅ kör 'python pipeline/queue_backlog.py --max 1 --packs-first' i gadget-drop (bara CarPlay-videon, video_id saknas i history.json). | nästa pass fortsätter där det slutade |
 | 26/09 09:04 | Claude | Claude | #680 | start | Går igenom dygnsrutinens restlista: enda kvarvarande är #669, som hanteras på sitt eget id · projekt gadget-drop |  |
 | 26/09 09:04 | Claude | Claude | #669 | note | Tredje godkännandefrågan skickad via 🛂-boten med 30 min svarstid. Vid ✅ laddas bara CarPlay-videon upp; nej/inget svar = ingenting görs. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 22/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-22-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 22/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-22-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
 | 22/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-22-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
-| 22/09 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-22-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
