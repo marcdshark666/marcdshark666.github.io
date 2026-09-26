@@ -1,0 +1,25 @@
+{
+ "rader": [
+  {
+   "id": "wmu545yyvu9ht",
+   "n": 8,
+   "skapad": "2026-09-17T05:53:28.135Z",
+   "utford": "2026-09-17T05:53:32.835Z",
+   "svar": "Vakthund 8 var vaken — ticken kördes direkt: TOMT for dig - 34 uppdrag betas redan av i egen process (korning 2026-09-17-0720). Somna om."
+  },
+  {
+   "id": "wmu546vg9djee",
+   "n": 7,
+   "skapad": "2026-09-17T05:54:10.233Z",
+   "utford": "2026-09-17T05:54:16.435Z",
+   "svar": "Watchdog 7 was awake — its tick ran now: TOMT for dig - 33 uppdrag betas redan av i egen process (korning 2026-09-17-0720). Somna om."
+  },
+  {
+   "id": "wmu5478i7jd04",
+   "n": 6,
+   "skapad": "2026-09-17T05:54:27.151Z",
+   "utford": "2026-09-17T05:54:29.561Z",
+   "svar": "Watchdog 6 was awake — its tick ran now: 33 tasks are already being worked in their own process, so it went back to sleep."
+  }
+ ]
+}
