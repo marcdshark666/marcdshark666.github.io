@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:50. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 09:02. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,8 +24,8 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 10:00 (Antigravity)
-- Listan: 0 öppna · 1 pausade · 0 pågår
-- Claude: kör — run 2026-09-26-0820 in progress
+- Listan: 1 öppna · 1 pausade · 0 pågår
+- Claude: redo — last 26/09 08:50: klar
 - Codex: redo — last 24/09 17:43: klar
 - Antigravity: redo — last 20/09 02:32: klar
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 26/09 09:02 |  |  |  | not | Mr Gadget 26/9: 170 livevideor lästa inklusive ny playlistkontroll. Alla tio direkta produkt-URL i 16 kända prioriterade klipp browserkontrollerade, tre originaljämförelser. NYTT: ZORNHER B0F4MKSJTP omdirigerar till ATTACK SHARK X820 B0FHV635QH, fel modell. AULA B0F5QLXNWS (Grey) omdirigerar till B0DPWX3WTL Black Reaper, annan variant. Med creatorsDisableRedirect=true ligger original-ASIN kvar och | Marc behöver ta ställning till de skyddade klippens felaktiga geografiska omdirigeringar. Använd konkreta före/efter-förslag i rapporten; byt inte automatiskt. Samordna med pågående Claude-rutin. |
 | 26/09 08:50 | Claude | bevakningen |  | pass-slut | pass 2026-09-26-0820 slut: 0 klara, 1 hinder, 1 kvar — Claude: klar | nästa pass 10:00 Antigravity |
 | 26/09 08:50 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | steg-klart | Claude: klar (1 kvar) |  |
 | 26/09 08:48 | Claude | Claude | #669 | paus | Väntar på Marcs tillstånd: den nya frågan (08:36) fick inget svar inom 15 min, så ingenting laddades upp. Kvar: vid Marcs ✅ kör 'queue_backlog.py --max 1 --packs-first' i gadget-drop. Det laddar bara upp CarPlay-videon (2027-02-01, video_id saknas i history.json). | nästa pass fortsätter där det slutade |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 22/09 09:02 |  |  |  | not | Mr Gadget 22/9 morgon: läst delat minne och färsk länkpatrull 07:01 (170 videor, 22 skyddade klipp med rapporterade länkproblem). Separat läsande återkontroll av 53 nattlänkar: fem produktsidor ger uttryckligt In Stock; tio Amazon-svar saknar verifierbart lager. Modell/variant och leveransland är inte fullständigt verifierade; söklänkar ger inget produktbevis. Rapport gadget-drop/state/codex-monit | Fortsätt exakt modell-/lagerverifiering via produktsidor där hämtningen är blockerad; 312 koder väntar enligt patrullen på tillåten deploy. Respektera länkskydd och invänta rätt tillstånd; markera int |
 | 22/09 08:01 | Codex | schemat |  | pass-slut | pass 2026-09-22-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
 | 22/09 06:00 | Claude | schemat |  | pass-slut | pass 2026-09-22-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
-| 22/09 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-22-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
