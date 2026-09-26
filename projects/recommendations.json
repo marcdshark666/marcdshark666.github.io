@@ -15141,25 +15141,6 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null
-  },
-  {
-   "id": "auto.vakthund.ledig",
-   "projekt": "the-work-list",
-   "grad": 3,
-   "kalla": "vakthundarna",
-   "nytta": "medel",
-   "insats": "liten",
-   "foljd": "There is work waiting while helpers sit idle. The queue is not moving even though there is capacity to move it.",
-   "titel": "1 uppdrag väntar medan 1 vakthund sover",
-   "text": "Kön har 1 obesvarade uppdrag och 1 vakthundsplats står ledig. Ja: jag delar ut kön på de lediga platserna direkt i stället för att vänta på nästa schemalagda körning. Nej: kön får ligga kvar till nästa körning.",
-   "skapad": "2026-09-26T07:02:20.940Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "tgKey": null,
-   "tgAt": null,
-   "tgMsg": null,
-   "tgKvitto": null
   }
  ],
  "skannat": "2026-09-26T05:40:47.818Z",
