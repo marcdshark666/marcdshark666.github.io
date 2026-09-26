@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:22. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 08:23. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 10:00 (Antigravity)
-- Listan: 1 öppna · 0 pausade · 1 pågår
+- Listan: 1 öppna · 0 pausade · 0 pågår
 - Claude: kör — run 2026-09-26-0820 in progress
 - Codex: redo — last 24/09 17:43: klar
 - Antigravity: redo — last 20/09 02:32: klar
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 26/09 08:23 | Claude | Claude | #668 | fail | Mejl går inte fram: Amazons säljaradresser tar inte emot mejl. Texten ligger klar som utkast i Gmail (🔴 Case ID 22075043231). Marc: kopiera den till Case log: sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22075043231 och tryck Send. | Marc behöver agera |
+| 26/09 08:23 | Claude | Claude | #668 | note | Gmail genomsökt: alla Amazons säljaradresser (seller.service05, siv-sesu-en-appeal) tar inte emot mejl – mejl dit studsar. Utkast skrivet i Gmail (Utkast, ämne '🔴 Case ID 22075043231 – No response…') med case 22075043231 + 22074639341, chattarna med Devi/Alen, löftet om 24 h och frågan varför butiken inte kan öppnas. |  |
 | 26/09 08:22 | Claude | Claude | #668 | start | Söker i Gmail efter en fungerande Amazon Seller Support-adress och skickar ett uppföljningsmejl om case 22075043231 med referens till supportärendena · projekt marcs-resell |  |
 | 26/09 08:21 | Claude | bevakningen |  | pass | pass 2026-09-26-0820 börjar (bevakningen): 2 att göra, turordning Claude → Codex → Antigravity |  |
 | 26/09 08:01 | Codex | schemat |  | pass-slut | pass 2026-09-26-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
@@ -113,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 22/09 00:37 | Codex | Codex 101/102 (codex exec) |  | steg-klart | Codex: klar (0 kvar) |  |
 | 22/09 00:30 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 4 parallellt) |  | hoppade-over | Claude: hoppades över: claude är utloggad på datorn — Marc: kör `claude auth login` i en terminal (4 kvar) | Codex tar över |
 | 22/09 00:30 | Claude | bevakningen |  | pass | pass 2026-09-22-0030 börjar (bevakningen): 4 att göra, turordning Claude → Codex → Antigravity |  |
-| 22/09 00:30 | Claude | Claude Code (appen) |  | not | Rotan och det delade minnet infört (Marc 2026-09-22). Claude-CLI:n är utloggad sedan 21/9 23:00 — Marc måste köra claude auth login; Codex saknar krediter; Antigravity är enda levande steget. | Marc: claude auth login i en terminal på PC 1 |
