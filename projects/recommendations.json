@@ -15141,6 +15141,21 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null
+  },
+  {
+   "id": "rmui1s6du4bwu",
+   "projekt": "gadget-drop",
+   "titel": "Sent ✅ bör verkställas i stället för att gå förlorat",
+   "text": "#669 har frågats tre gånger (15/15/30 min). Marcs ✅ 08:16 kom efter fristen och loggades som sent-godkant men verkställdes aldrig. En väntande kö som plockar upp sena ✅ (t.ex. inom 6 h) och kör åtgärden då skulle lösa det.",
+   "grad": 3,
+   "nytta": "hog",
+   "insats": "halvdag",
+   "foljd": "Marc slipper godkänna samma video om och om igen – trycker han ja lite för sent blir videon ändå uppladdad.",
+   "kalla": "",
+   "skapad": "2026-09-26T07:07:45.618Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null
   }
  ],
  "skannat": "2026-09-26T05:40:47.818Z",
