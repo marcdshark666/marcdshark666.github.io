@@ -15156,6 +15156,21 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null
+  },
+  {
+   "id": "rmui1ssqq1jda",
+   "projekt": "the-work-list",
+   "titel": "Godkännandeboten ger upp efter ~50 s trots --timeout 1800",
+   "text": "telegram-godkann.js #669 09:05: args.timeout=1800 men gbot.waitForAnswer returnerade timedOut efter ~50 s (tillstand-logg 07:05:47Z). Troligen avbryts väntan av getUpdates-konflikt/fel som tolkas som timeout.",
+   "grad": 3,
+   "nytta": "hog",
+   "insats": "liten",
+   "foljd": "Godkännandefrågor kan stängas innan Marc hinner trycka, så saker han vill ha gjorda blir aldrig gjorda.",
+   "kalla": "",
+   "skapad": "2026-09-26T07:08:14.594Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null
   }
  ],
  "skannat": "2026-09-26T05:40:47.818Z",
