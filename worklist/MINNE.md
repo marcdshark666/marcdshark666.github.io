@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 10:04. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 26/09 10:35. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,10 +24,10 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Antigravity** · nästa pass: idag 12:00 (Claude)
-- Listan: 0 öppna · 1 pausade · 0 pågår
+- Listan: 0 öppna · 0 pausade · 0 pågår
 - Claude: redo — last 26/09 09:08: klar
 - Codex: redo — last 24/09 17:43: klar
-- Antigravity: kör — run 2026-09-26-1000 in progress
+- Antigravity: redo — last 26/09 10:04: klar
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
 
@@ -35,6 +35,9 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 26/09 10:35 |  | Claude | #669 | done | CarPlay-videon (2027-02-01) uppladdad! Video-ID: -ykD2z8sImI. Löst bugg (deepcopy av MediaFileUpload i affiliate_caption.py) och körde daily_15. · filer: affiliate_caption.py |  |
+| 26/09 10:35 |  | Claude | #669 | note | Kör queue_backlog.py --max 1 --packs-first för att specifikt ladda upp CarPlay-videon (som Claude rekommenderade). |  |
+| 26/09 10:35 |  | Claude | #669 | note | Kör daily_15.ps1 (bypass) igen efter att ha lagat copy.deepcopy() felet med MediaFileUpload. |  |
 | 26/09 10:04 | Antigravity | schemat |  | pass-slut | pass 2026-09-26-1000 slut: 0 klara, 0 hinder, 1 kvar — Antigravity: klar | nästa pass 12:00 Claude |
 | 26/09 10:04 | Antigravity | Antigravity 201 (Antigravity-appen via agentapi) |  | steg-klart | Antigravity: klar (1 kvar) |  |
 | 26/09 10:02 | Antigravity | Claude | #669 | note | Kör daily_15.ps1 (bypass execution policy) för att genomföra den godkända uppladdningen. |  |
@@ -112,6 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 23/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-23-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 23/09 16:01 | Antigravity | schemat |  | pass-slut | pass 2026-09-23-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 23/09 14:00 | Codex | schemat |  | pass-slut | pass 2026-09-23-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
-| 23/09 12:00 | Claude | schemat |  | pass-slut | pass 2026-09-23-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
-| 23/09 10:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-23-1000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
-| 23/09 09:02 |  |  |  | not | Mr Gadget 23/9: läst delat minne, tillstånd stopp och färsk patrull (170 videor, 22 skyddade klipp). Browseruppföljning av fem okända direkta produktlänkar: juicer UK B0GWJ335TD är nu Page Not Found (nytt fel); B08LN2X89N omdirigerar till svensk söksida, ingen exakt produkt/lagerverifikation. ACEFAST B0GKRKMKXG UK+SE Currently unavailable. Massager B0DY7JSV5N kan inte levereras till Sverige. Rappo | Juicerns döda länk behöver ett beslut från Marc för det skyddade klippet. Kontrollera exakt ersättare separat; inget automatiskt byte eller slutsåldtolkning av fel-/söksidor. Full lagergranskning kvar |
