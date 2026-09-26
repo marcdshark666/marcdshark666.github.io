@@ -1131,7 +1131,7 @@
    "nytta": "hög",
    "insats": "liten",
    "titel": "6 vakthundar svarar inte",
-   "text": "Vakthund 1 (puls 181 min sedan), Vakthund 2 (puls 252 min sedan), Vakthund 3 (puls 573 min sedan), Vakthund 5 (puls 247 min sedan), Vakthund 7 (puls 276 min sedan), Vakthund 8 (puls 266 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
+   "text": "Vakthund 1 (puls 201 min sedan), Vakthund 2 (puls 272 min sedan), Vakthund 3 (puls 593 min sedan), Vakthund 5 (puls 267 min sedan), Vakthund 7 (puls 296 min sedan), Vakthund 8 (puls 286 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
    "skapad": "2026-09-07T17:35:12.899Z",
    "beslut": "implementera",
    "beslutAt": "2026-09-08T07:23:40.833Z",
