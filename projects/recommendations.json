@@ -15111,6 +15111,21 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null
+  },
+  {
+   "id": "rmuhz0hu448jp",
+   "projekt": "kalender-bradet",
+   "titel": "Ljudspår per land",
+   "text": "En kort loop per biom (skog: fåglar, hav: vågor, stad: trafik) med volymreglage. Syntetiskt, inga filer.",
+   "grad": 2,
+   "nytta": "",
+   "insats": "",
+   "foljd": "",
+   "kalla": "daglig-rek",
+   "skapad": "2026-09-26T05:50:14.860Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null
   }
  ],
  "skannat": "2026-09-26T05:40:47.818Z",
