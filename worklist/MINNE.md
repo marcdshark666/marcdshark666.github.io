@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:27. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:29. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 0 öppna · 0 pausade · 2 pågår
-- Claude: kvotstopp — quota used up 11 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 6 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Listan: 2 öppna · 2 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 1 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kvotstopp — quota used up 9 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-1900 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 19:29 | Antigravity | Antigravity | #1584 | paus | Integrerat i Husvakten enligt instruktion, committat lokalt. Väntar på deploy av Claude/Marc. | nästa pass fortsätter där det slutade |
+| 03/10 19:29 | Antigravity | Antigravity | #1583 | paus | Koden för fjärrstyrning (server och UI) är skriven och committad lokalt. Väntar på deploy av Claude/Marc. | nästa pass fortsätter där det slutade |
 | 03/10 19:27 | Antigravity | Antigravity | #1584 | start | Samordnar fjärrstyrning inuti Husvakten. · projekt husvakten |  |
 | 03/10 19:27 | Antigravity | Antigravity | #1583 | start | Påbörjar utveckling av fjärrstyrning. · projekt husvakten |  |
 | 03/10 19:26 | Antigravity | Antigravity | #1582 | done | Loggat att diskho städas (pågår) av Marc. Krypterat och pushat till repot. |  |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 27/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-27-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
 | 27/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-27-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 27/09 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-27-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
-| 27/09 14:00 | Codex | schemat |  | pass-slut | pass 2026-09-27-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
-| 27/09 12:01 | Claude | schemat |  | pass-slut | pass 2026-09-27-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
