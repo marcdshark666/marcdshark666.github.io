@@ -16137,6 +16137,21 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null
+  },
+  {
+   "id": "rmuspghx3d4sm",
+   "projekt": "spelkontroll",
+   "titel": "Automatisk app-vila (RAM-sparare)",
+   "text": "Ett skript som identifierar tunga appar (t.ex. Chrome-flikar) i bakgrunden och pausar (suspend) dem när Netflix körs.",
+   "grad": 3,
+   "nytta": "",
+   "insats": "",
+   "foljd": "Sänker RAM-användningen märkbart utan att du förlorar osparade data, appar väcks igen direkt vid klick.",
+   "kalla": "",
+   "skapad": "2026-10-03T18:08:13.239Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null
   }
  ],
  "skannat": "2026-10-02T05:40:32.903Z",
