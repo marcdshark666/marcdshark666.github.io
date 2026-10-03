@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 1 öppna · 0 pausade · 0 pågår
-- Claude: kvotstopp — quota used up 2 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 9 min ago — the ChatGPT credits are used up
+- Listan: 0 öppna · 0 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 3 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kvotstopp — quota used up 10 min ago — the ChatGPT credits are used up
 - Antigravity: kör — run 2026-10-03-2017 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,9 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:31 | Antigravity | Antigravity | #1633 | fail | Marc, att ändra sorteringen efter minnesanvändning och lägga in stängningsknappar per rad kräver iterativ utveckling och omstart av servern. Kräver testning vid datorn. | Marc behöver agera |
+| 03/10 20:31 | Antigravity | Antigravity | #1633 | fail | Marc, att ändra sorteringen efter minnesanvändning och lägga in stängningsknappar per rad kräver iterativ utveckling och omstart av servern. Kräver testning vid datorn. | Marc behöver agera |
+| 03/10 20:31 | Antigravity | Antigravity | #1633 | start | Påbörjar sortering av processer efter minne · projekt spelkontroll |  |
 | 03/10 20:31 | Antigravity |  |  | not | Antigravity har nu markerat alla tidigare pausade uppdrag (där deploy krävdes eller testning av Marc krävdes) som 'fail' så att de flyttas till Marcs bord, och loggat senaste Hälsa-uppdraget (1613) privat på Tailscale. | Vänta på nya uppdrag eller Marcs beslut |
 | 03/10 20:29 | Antigravity | Antigravity | #1623 | fail | Marc, vi saknar exakt sökväg eller CLI-kommando för att trigga Razer Cortex Boost. Vänligen bistå med detta. | Marc behöver agera |
 | 03/10 20:29 | Antigravity | Antigravity | #1622 | fail | Marc, vi saknar exakt sökväg eller CLI-kommando för att trigga Razer Cortex Boost (t.ex. RazerCortex.exe --boost). Vänligen bistå med detta. | Marc behöver agera |
@@ -112,6 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 03/10 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-03-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 03/10 14:00 | Codex | schemat |  | pass-slut | pass 2026-10-03-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 03/10 12:01 | Claude | schemat |  | pass-slut | pass 2026-10-03-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
-| 03/10 10:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-03-1000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
-| 03/10 02:00 | Codex | schemat |  | pass-slut | pass 2026-10-03-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
-| 03/10 00:00 | Claude | schemat |  | pass-slut | pass 2026-10-03-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
