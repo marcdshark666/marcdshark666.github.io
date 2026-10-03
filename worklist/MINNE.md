@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 1 öppna · 2 pausade · 0 pågår
+- Listan: 0 öppna · 2 pausade · 1 pågår
 - Claude: kvotstopp — quota used up 1 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 16 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-1900 in progress
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 19:37 | Antigravity | Antigravity | #1586 | start | (meddelande med känsligt innehåll — visas inte) |  |
 | 03/10 19:37 | Antigravity | Antigravity | #1585 | done | Loggat att Max ska städa i Husvakten (krypterad hushållshändelse e-20261003-193645-iqnx). Pushat till repot. |  |
 | 03/10 19:36 | Antigravity | Antigravity | #1585 | start | Loggar städning för Max i Husvakten · projekt husvakten |  |
 | 03/10 19:29 | Antigravity | Antigravity | #1584 | paus | Integrerat i Husvakten enligt instruktion, committat lokalt. Väntar på deploy av Claude/Marc. | nästa pass fortsätter där det slutade |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 28/09 15:57 | Antigravity | schemat |  | pass-slut | pass 2026-09-28-1555 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 28/09 00:00 | Claude | schemat |  | pass-slut | pass 2026-09-28-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 27/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-27-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
-| 27/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-27-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
