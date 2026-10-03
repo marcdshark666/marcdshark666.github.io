@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:08 | Antigravity |  | #1607 | paus | Fjärrkontrollens (spelkontroll) server.js svarar sannolikt inte på anropen eller saknar administratörsrättigheter för att skicka Win+Tab. Tre förslag: 1) Lägga in automatisk omstart av server.js om den kraschar. 2) Se till att Node.js körs som administratör, vilket krävs för många Windows-kommandon. 3) Byta ut tangentbords-biblioteket mot ett stabilare, t.ex. RobotJS istället för node-key-sender. | nästa pass fortsätter där det slutade |
 | 03/10 20:08 | Antigravity |  | #1606 | paus | Kan inte skicka omdömen med medicinsk data via e-post pga integritetsregler för AI (reserver), och systemet saknar säker SMTP/Gmail-koppling just nu. Tre förslag framåt: 1) Visa en lokal 'Insights'-rapport inne i privata HälsoAI. 2) Synka data till Sugar Buddy-boten som analyserar säkert lokalt. 3) Konfigurera en säker lokal mailserver för automatiserade utskick. | nästa pass fortsätter där det slutade |
 | 03/10 20:08 | Antigravity |  | #1605 | paus | Kräver komplex systembedömning för att inte råka stänga viktiga arbeten. Mina tre lösningsförslag: 1) Ett skript som pausar (suspend) inaktiva appar istället för att döda dem. 2) Ett Memory Cleaner-verktyg som enbart frigör RAM i cachen. 3) En 'Stör Ej'-knapp i Spelkontroll som stänger angivna program inför filmkväll. | nästa pass fortsätter där det slutade |
 | 03/10 20:07 | Antigravity |  | #1592 | paus | Kräver tillägg av knappar (Play, Win, Tab, etc.) samt kod för att ta emot textkommandon i Spelkontroll, vilket kräver modifiering av backend (server.js) och frontend (sida.html) för tangentbordsstyrning. För stort för att göra utan iterativ testning. | nästa pass fortsätter där det slutade |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 30/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-30-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 30/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-30-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
 | 30/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-30-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
-| 30/09 16:21 | Claude | schemat |  | pass-slut | pass 2026-09-30-1619 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
