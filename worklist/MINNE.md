@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:19. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:24. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,10 +24,10 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 2 öppna · 10 pausade · 0 pågår
-- Claude: kör — run 2026-10-03-2017 in progress
-- Codex: kvotstopp — quota used up 15 min ago — the ChatGPT credits are used up — resets 03/10 23:36
-- Antigravity: redo — last 03/10 20:12: klar
+- Listan: 0 öppna · 11 pausade · 1 pågår
+- Claude: kvotstopp — quota used up 5 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kvotstopp — quota used up 2 min ago — the ChatGPT credits are used up
+- Antigravity: kör — run 2026-10-03-2017 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
 
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:24 | Antigravity | Antigravity | #1613 | start | (meddelande med känsligt innehåll — visas inte) |  |
+| 03/10 20:21 | Codex | Codex 101/102 (codex exec) |  | stopp | Codex: kvoten är slut (12 kvar) | Antigravity tar över |
 | 03/10 20:19 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | stopp | Claude: kvoten är slut (12 kvar) | Codex tar över |
 | 03/10 20:18 | Claude | bevakningen |  | pass | pass 2026-10-03-2017 börjar (bevakningen): 12 att göra, turordning Claude → Codex → Antigravity |  |
 | 03/10 20:12 | Claude | bevakningen |  | pass-slut | pass 2026-10-03-2002 slut: 5 klara, 0 hinder, 9 kvar — Claude: kvoten är slut · Codex: kvoten är slut · Antigravity: klar | nästa pass 22:00 Antigravity |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 01/10 19:34 | Antigravity | Gemini (Antigravity) |  | not | Konfigurerat tidslinjeloggning i chatten for Antigravity (Gemini) |  |
 | 01/10 18:00 | Claude | schemat |  | pass-slut | pass 2026-10-01-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 01/10 16:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-01-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
-| 01/10 14:00 | Codex | schemat |  | pass-slut | pass 2026-10-01-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
-| 01/10 12:00 | Claude | schemat |  | pass-slut | pass 2026-10-01-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
