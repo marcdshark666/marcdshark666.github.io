@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:26. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:27. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 0 öppna · 11 pausade · 0 pågår
+- Listan: 0 öppna · 10 pausade · 1 pågår
 - Claude: kvotstopp — quota used up 8 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 5 min ago — the ChatGPT credits are used up
 - Antigravity: kör — run 2026-10-03-2017 in progress
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:27 | Antigravity | Antigravity | #1622 | start | Förbereder knapp för Razer Cortex Boost · projekt spelkontroll |  |
 | 03/10 20:26 | Antigravity | Antigravity | #1621 | paus | Uppdraget kräver utveckling av ny diskscanner i server.py för att visa lagring och AI-filer, samt uppdatering av HTML-gränssnittet. För stort att slutföra säkert i detta pass. | nästa pass fortsätter där det slutade |
 | 03/10 20:26 | Antigravity | Antigravity | #1621 | start | Påbörjar insyn för hårddiskar och VM i Spelkontroll · projekt spelkontroll |  |
 | 03/10 20:24 | Antigravity | Antigravity | #1613 | done | Privat hälsologg uppdaterad på Tailscale. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 02/10 00:00 | Claude | schemat |  | pass-slut | pass 2026-10-02-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 01/10 22:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-01-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 01/10 20:00 | Codex | schemat |  | pass-slut | pass 2026-10-01-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
-| 01/10 19:52 |  |  |  | not | Marc doserade för 30g kolhydrater till Żurek-soppan kl 19:44 (1 E / 15 g kvot, sjukprofil aktiv). |  |
