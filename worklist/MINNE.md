@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 1 öppna · 0 pausade · 1 pågår
+- Listan: 0 öppna · 0 pausade · 2 pågår
 - Claude: kvotstopp — quota used up 11 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 6 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-1900 in progress
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 19:27 | Antigravity | Antigravity | #1584 | start | Samordnar fjärrstyrning inuti Husvakten. · projekt husvakten |  |
 | 03/10 19:27 | Antigravity | Antigravity | #1583 | start | Påbörjar utveckling av fjärrstyrning. · projekt husvakten |  |
 | 03/10 19:26 | Antigravity | Antigravity | #1582 | done | Loggat att diskho städas (pågår) av Marc. Krypterat och pushat till repot. |  |
 | 03/10 19:26 | Antigravity | Antigravity | #1581 | done | Ja, du kan ställa in tallrikarna och besticken. Loggat som Plocka in i diskmaskin, smutsig (fylld) av Marc. Pushad till repot. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 27/09 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-27-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 27/09 14:00 | Codex | schemat |  | pass-slut | pass 2026-09-27-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 27/09 12:01 | Claude | schemat |  | pass-slut | pass 2026-09-27-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
-| 27/09 10:44 | Claude | schemat |  | pass-slut | pass 2026-09-27-1043 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
