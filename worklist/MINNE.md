@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:27. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:28. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,8 +24,8 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 0 öppna · 11 pausade · 0 pågår
-- Claude: kvotstopp — quota used up 8 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Listan: 0 öppna · 10 pausade · 1 pågår
+- Claude: kvotstopp — quota used up 9 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 6 min ago — the ChatGPT credits are used up
 - Antigravity: kör — run 2026-10-03-2017 in progress
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:28 | Antigravity | Antigravity | #1610 | start | (meddelande med känsligt innehåll — visas inte) |  |
 | 03/10 20:27 | Antigravity | Antigravity | #1623 | paus | Samma åtgärd som uppdrag 1622 (Razer Cortex Boost). Behöver iterativ testning för att hitta rätt kommandoradsargument. | nästa pass fortsätter där det slutade |
 | 03/10 20:27 | Antigravity | Antigravity | #1623 | start | Förbereder knapp för Razer Cortex Boost (fortsättning) · projekt spelkontroll |  |
 | 03/10 20:27 | Antigravity | Antigravity | #1622 | paus | För att trigga Razer Cortex Boost behöver Spelkontroll-backend veta det exakta kommandot eller genvägen som startar boost-funktionen i Cortex, samt lägga till en knapp i gränssnittet. Kräver iterativ testning. | nästa pass fortsätter där det slutade |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 02/10 06:00 | Claude | schemat |  | pass-slut | pass 2026-10-02-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
 | 02/10 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-02-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
 | 02/10 02:00 | Codex | schemat |  | pass-slut | pass 2026-10-02-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
-| 02/10 00:57 |  |  |  | not | Mr Gadget 2/10: 173 livevideor lästa, 15 tidigare tagg-/URL-avvikelser kvar; startsida HTTP 200. Tio direkta produktlänkar browserkontrollerade. Nytt: ACEFAST US går nu till svensk söksida, ingen exakt köpväg. Kuddlänk B08LN2X89N går nu till svensk sittdyna B0D2B21S45, ej verifierad som filmens nackkudde. AULA går fortsatt till svart variant. UK-juicer Page Not Found, ACEFAST SE/UK unavailable, UK | Fortsätt återstående exaktmodell-/lagerverifiering och källkartläggning. Skyddade klipp kräver Marcs specifika order; föreslagna rättningar får inte verkställas automatiskt. |
