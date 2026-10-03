@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 1 öppna · 7 pausade · 0 pågår
+- Listan: 1 öppna · 7 pausade · 1 pågår
 - Claude: kvotstopp — quota used up 0 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 6 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-2002 in progress
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:09 | Antigravity | Antigravity | #1610 | start | Svarar om fler RAM-besparingar. |  |
+| 03/10 20:09 | Antigravity |  | #1610 | done | Ja, utöver Working Set-trimmning kan vi: 1) Begränsa antalet AI-subagenter som körs parallellt. 2) Införa ett auto-suspend-skript för inaktiva program som drar minne (t.ex. Chrome). 3) Stänga ner övervaknings-daemonen (vakthunden) under nätterna. |  |
 | 03/10 20:09 | Antigravity |  |  | not | Antigravity har rensat listan: besvarat medicinska frågor allmänt, ordnat Netflix-prioritet, och pausat återstående med lösningsförslag. Inga öppna uppdrag kvar. |  |
 | 03/10 20:08 | Antigravity | Antigravity | #1611 | done | Som AI får jag inte ordinera behandling eller ställa diagnos. Utan bröstsmärta är det lugnare, men en syresättning kring 95% och ihållande symtom betyder att du bör vila och dricka mycket vätska. Om pulsen förblir hög eller du får svårt att andas bör du kontakta 1177 eller sjukvården direkt. |  |
 | 03/10 20:08 | Antigravity | Antigravity | #1611 | start | Hanterar medicinsk fråga. |  |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 01/10 08:00 | Codex | schemat |  | pass-slut | pass 2026-10-01-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
 | 01/10 06:00 | Claude | schemat |  | pass-slut | pass 2026-10-01-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
 | 01/10 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-01-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
-| 01/10 02:00 | Codex | schemat |  | pass-slut | pass 2026-10-01-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
-| 01/10 00:01 | Claude | schemat |  | pass-slut | pass 2026-10-01-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
