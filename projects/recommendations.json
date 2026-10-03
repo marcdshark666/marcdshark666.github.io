@@ -16122,6 +16122,21 @@
    "tgKey": "5pn4mouf",
    "tgAt": "2026-10-02T09:20:25.276Z",
    "tgMsg": 15960
+  },
+  {
+   "id": "rmus2b3hvpbt8",
+   "projekt": "kalender-bradet",
+   "titel": "Klockslag på brädet",
+   "text": "När figuren står på dagens bricka: en liten solvisare som visar hur långt dagen har kommit.",
+   "grad": 2,
+   "nytta": "",
+   "insats": "",
+   "foljd": "",
+   "kalla": "daglig-rek",
+   "skapad": "2026-10-03T07:20:10.099Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null
   }
  ],
  "skannat": "2026-10-02T05:40:32.903Z",
