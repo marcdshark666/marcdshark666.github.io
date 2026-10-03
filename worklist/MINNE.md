@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:25. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:26. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 1 öppna · 1 pausade · 2 pågår
-- Claude: kvotstopp — quota used up 10 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 4 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Listan: 1 öppna · 1 pausade · 1 pågår
+- Claude: kvotstopp — quota used up 11 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kvotstopp — quota used up 5 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-1900 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 19:26 | Antigravity | Antigravity | #1581 | done | Ja, du kan ställa in tallrikarna och besticken. Loggat som Plocka in i diskmaskin, smutsig (fylld) av Marc. Pushad till repot. |  |
 | 03/10 19:25 | Antigravity | Antigravity | #1582 | start | Påbörjar loggning av handfat. · projekt husvakten |  |
 | 03/10 19:24 | Antigravity | Antigravity | #1581 | start | Påbörjar loggning av disk. · projekt husvakten |  |
 | 03/10 19:23 | Antigravity | Codex | #1578 | done | GitHub push för uppdraget slutförd framgångsrikt (5baae26 pushad). Köksbordets städning är publicerad. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 27/09 10:44 | Claude | schemat |  | pass-slut | pass 2026-09-27-1043 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
 | 27/09 10:44 | Antigravity | schemat |  | pass-slut | pass 2026-09-27-1043 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
 | 27/09 10:44 | Codex | schemat |  | pass-slut | pass 2026-09-27-1043 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
-| 26/09 23:32 |  |  |  | not | Amazon case 22075043231: eskalering skickad 26/9 fran Marcs Gmail till jeff@, escalation-resolution@, ajassy@amazon.com (Marcs uttryckliga OK). Case-texten ligger i urklipp for Seller Central; Marc klistrar sjalv. | Bevaka Gmail efter svar fran amazon.com pa case 22075043231 |
