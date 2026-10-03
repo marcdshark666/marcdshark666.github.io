@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 1 öppna · 1 pausade · 0 pågår
+- Listan: 1 öppna · 0 pausade · 0 pågår
 - Claude: kvotstopp — quota used up 1 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 8 min ago — the ChatGPT credits are used up
 - Antigravity: kör — run 2026-10-03-2017 in progress
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:29 | Antigravity | Antigravity | #1623 | fail | Marc, vi saknar exakt sökväg eller CLI-kommando för att trigga Razer Cortex Boost. Vänligen bistå med detta. | Marc behöver agera |
 | 03/10 20:29 | Antigravity | Antigravity | #1622 | fail | Marc, vi saknar exakt sökväg eller CLI-kommando för att trigga Razer Cortex Boost (t.ex. RazerCortex.exe --boost). Vänligen bistå med detta. | Marc behöver agera |
 | 03/10 20:29 | Antigravity | Antigravity | #1621 | fail | Marc, behöver feedback på UI/design eller en djupare undersökning av diskarna lokalt för att kunna bygga en skräddarsydd volymscanner. | Marc behöver agera |
 | 03/10 20:29 | Antigravity |  | #1607 | fail | Marc, välj ett av de tre förslagen för att fixa Win+Tab i fjärrkontrollen (behörighet, omstart eller nytt bibliotek). | Marc behöver agera |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 03/10 02:00 | Codex | schemat |  | pass-slut | pass 2026-10-03-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
 | 03/10 00:00 | Claude | schemat |  | pass-slut | pass 2026-10-03-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 02/10 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-02-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
-| 02/10 20:00 | Codex | schemat |  | pass-slut | pass 2026-10-02-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
