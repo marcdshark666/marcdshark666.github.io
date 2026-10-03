@@ -24,10 +24,10 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Antigravity** · nästa pass: imorgon 00:00 (Claude)
-- Listan: 0 öppna · 1 pausade · 0 pågår
-- Claude: kvotstopp — quota used up 6 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Listan: 0 öppna · 0 pausade · 1 pågår
+- Claude: kvotstopp — quota used up 7 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 03/10 20:33 — the next rung takes over
-- Antigravity: redo — last 03/10 20:33: klar
+- Antigravity: kör — run 2026-10-03-2200 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 22:01 | Antigravity | Antigravity | #1635 | start | Läser in uppdraget och granskar bilden. |  |
 | 03/10 22:01 | Antigravity | schemat |  | pass | pass 2026-10-03-2200 börjar (schemalagt pass): 1 att göra, turordning Antigravity → Claude → Codex |  |
 | 03/10 20:49 | Antigravity | Antigravity | #1634 | done | CarPay-intervall ändrat i bygg.py så det hämtar period från förfallodatumet, precis som Amex. Data ombyggd. · filer: bygg.py, data.js |  |
 | 03/10 20:47 | Antigravity | Antigravity | #1634 | start | Påbörjar justering av CarPay-intervall till 28:e till 28:e · projekt manadsavrakning |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 03/10 19:23 | Antigravity | Codex | #1577 | done | GitHub push för uppdraget slutförd framgångsrikt (6cf867c pushad). Inga fler åtgärder kvar för git-problemet. |  |
 | 03/10 19:22 | Antigravity | Codex | #1577 | start | Försöker slutföra git push för sparad hushållshändelse · projekt husvakten |  |
 | 03/10 19:22 | Codex | Codex 101/102 (codex exec) |  | stopp | Codex: kvoten är slut (6 kvar) | Antigravity tar över |
-| 03/10 19:02 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | stopp | Claude: kvoten är slut (3 kvar) | Codex tar över |
