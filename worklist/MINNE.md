@@ -26,7 +26,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
 - Listan: 2 öppna · 7 pausade · 0 pågår
 - Claude: kvotstopp — quota used up 5 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 4 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Codex: kvotstopp — quota used up 5 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-2002 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:08 | Antigravity |  | #1606 | paus | Kan inte skicka omdömen med medicinsk data via e-post pga integritetsregler för AI (reserver), och systemet saknar säker SMTP/Gmail-koppling just nu. Tre förslag framåt: 1) Visa en lokal 'Insights'-rapport inne i privata HälsoAI. 2) Synka data till Sugar Buddy-boten som analyserar säkert lokalt. 3) Konfigurera en säker lokal mailserver för automatiserade utskick. | nästa pass fortsätter där det slutade |
 | 03/10 20:08 | Antigravity |  | #1605 | paus | Kräver komplex systembedömning för att inte råka stänga viktiga arbeten. Mina tre lösningsförslag: 1) Ett skript som pausar (suspend) inaktiva appar istället för att döda dem. 2) Ett Memory Cleaner-verktyg som enbart frigör RAM i cachen. 3) En 'Stör Ej'-knapp i Spelkontroll som stänger angivna program inför filmkväll. | nästa pass fortsätter där det slutade |
 | 03/10 20:07 | Antigravity |  | #1592 | paus | Kräver tillägg av knappar (Play, Win, Tab, etc.) samt kod för att ta emot textkommandon i Spelkontroll, vilket kräver modifiering av backend (server.js) och frontend (sida.html) för tangentbordsstyrning. För stort för att göra utan iterativ testning. | nästa pass fortsätter där det slutade |
 | 03/10 20:07 | Antigravity | Antigravity | #1591 | done | Det nya Netflix-optimeringsskriptet minskar lagg genom att sänka andras prioritet och ge Chrome max resurser. Vill du att datorn rentav ska döda appar kan vi lägga in auto-kill på specifika bakgrundsprogram, men prio-ändringen bör lösa hackandet först. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 30/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-30-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
 | 30/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-30-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 30/09 16:21 | Claude | schemat |  | pass-slut | pass 2026-09-30-1619 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
-| 30/09 00:00 | Claude | schemat |  | pass-slut | pass 2026-09-30-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
