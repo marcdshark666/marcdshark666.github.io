@@ -1131,7 +1131,7 @@
    "nytta": "hög",
    "insats": "liten",
    "titel": "8 vakthundar svarar inte",
-   "text": "Vakthund 1 (puls 276 min sedan), Vakthund 2 (puls 278 min sedan), Vakthund 3 (puls 274 min sedan), Vakthund 4 (puls 274 min sedan), Vakthund 5 (puls 276 min sedan), Vakthund 6 (puls 293 min sedan), Vakthund 7 (puls 277 min sedan), Vakthund 8 (puls 276 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
+   "text": "Vakthund 1 (puls 277 min sedan), Vakthund 2 (puls 280 min sedan), Vakthund 3 (puls 276 min sedan), Vakthund 4 (puls 275 min sedan), Vakthund 5 (puls 277 min sedan), Vakthund 6 (puls 294 min sedan), Vakthund 7 (puls 279 min sedan), Vakthund 8 (puls 278 min sedan). Så länge pulsen är död går det inte att nå dem från mobilen. Ja: jag kör Vakthund-Vakt, startar om platserna och kontrollerar att de svarar igen. Nej: de får ligga nere tills du säger till.",
    "skapad": "2026-09-07T17:35:12.899Z",
    "beslut": "implementera",
    "beslutAt": "2026-09-08T07:23:40.833Z",
@@ -15955,7 +15955,10 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "tgKey": "d7bz320x",
+   "tgAt": "2026-10-03T19:01:53.442Z",
+   "tgMsg": 16508
   },
   {
    "id": "auto.rutin.codexreserve-night.fel",
@@ -15972,7 +15975,10 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
+   "tgKey": "din65as6",
+   "tgAt": "2026-10-03T19:02:07.879Z",
+   "tgMsg": 16510
   },
   {
    "id": "auto.rutin.rutin-amazon-case-mailvakt.fel",
