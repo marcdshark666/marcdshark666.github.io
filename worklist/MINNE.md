@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 0 öppna · 10 pausade · 1 pågår
+- Listan: 0 öppna · 11 pausade · 0 pågår
 - Claude: kvotstopp — quota used up 8 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 5 min ago — the ChatGPT credits are used up
+- Codex: kvotstopp — quota used up 6 min ago — the ChatGPT credits are used up
 - Antigravity: kör — run 2026-10-03-2017 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,9 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:27 | Antigravity | Antigravity | #1623 | paus | Samma åtgärd som uppdrag 1622 (Razer Cortex Boost). Behöver iterativ testning för att hitta rätt kommandoradsargument. | nästa pass fortsätter där det slutade |
+| 03/10 20:27 | Antigravity | Antigravity | #1623 | start | Förbereder knapp för Razer Cortex Boost (fortsättning) · projekt spelkontroll |  |
+| 03/10 20:27 | Antigravity | Antigravity | #1622 | paus | För att trigga Razer Cortex Boost behöver Spelkontroll-backend veta det exakta kommandot eller genvägen som startar boost-funktionen i Cortex, samt lägga till en knapp i gränssnittet. Kräver iterativ testning. | nästa pass fortsätter där det slutade |
 | 03/10 20:27 | Antigravity | Antigravity | #1622 | start | Förbereder knapp för Razer Cortex Boost · projekt spelkontroll |  |
 | 03/10 20:26 | Antigravity | Antigravity | #1621 | paus | Uppdraget kräver utveckling av ny diskscanner i server.py för att visa lagring och AI-filer, samt uppdatering av HTML-gränssnittet. För stort att slutföra säkert i detta pass. | nästa pass fortsätter där det slutade |
 | 03/10 20:26 | Antigravity | Antigravity | #1621 | start | Påbörjar insyn för hårddiskar och VM i Spelkontroll · projekt spelkontroll |  |
@@ -112,6 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 02/10 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-02-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
 | 02/10 02:00 | Codex | schemat |  | pass-slut | pass 2026-10-02-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
 | 02/10 00:57 |  |  |  | not | Mr Gadget 2/10: 173 livevideor lästa, 15 tidigare tagg-/URL-avvikelser kvar; startsida HTTP 200. Tio direkta produktlänkar browserkontrollerade. Nytt: ACEFAST US går nu till svensk söksida, ingen exakt köpväg. Kuddlänk B08LN2X89N går nu till svensk sittdyna B0D2B21S45, ej verifierad som filmens nackkudde. AULA går fortsatt till svart variant. UK-juicer Page Not Found, ACEFAST SE/UK unavailable, UK | Fortsätt återstående exaktmodell-/lagerverifiering och källkartläggning. Skyddade klipp kräver Marcs specifika order; föreslagna rättningar får inte verkställas automatiskt. |
-| 02/10 00:00 | Claude | schemat |  | pass-slut | pass 2026-10-02-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
-| 01/10 22:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-01-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
-| 01/10 20:00 | Codex | schemat |  | pass-slut | pass 2026-10-01-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
