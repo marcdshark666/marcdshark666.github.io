@@ -888,7 +888,7 @@
   {
    "id": "auto.botlabbet.vilande",
    "projekt": "botlabbet",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 76 days",
    "text": "The last change was 2026-07-19. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -1887,7 +1887,7 @@
   {
    "id": "auto.bertils-halsoai.vilande",
    "projekt": "bertils-halsoai",
-   "titel": "Nothing has happened in 68 days",
+   "titel": "Nothing has happened in 70 days",
    "text": "The last change was 2026-07-25. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2369,7 +2369,7 @@
   {
    "id": "auto.gym-3d-streaks.vilande",
    "projekt": "gym-3d-streaks",
-   "titel": "Nothing has happened in 66 days",
+   "titel": "Nothing has happened in 68 days",
    "text": "The last change was 2026-07-27. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2386,7 +2386,7 @@
   {
    "id": "auto.lilianas-salud.vilande",
    "projekt": "lilianas-salud",
-   "titel": "Nothing has happened in 64 days",
+   "titel": "Nothing has happened in 66 days",
    "text": "The last change was 2026-07-29. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -7373,7 +7373,7 @@
   {
    "id": "auto.inbox-zero-hero.vilande",
    "projekt": "inbox-zero-hero",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -7543,7 +7543,7 @@
   {
    "id": "auto.restaurang-roulette.vilande",
    "projekt": "restaurang-roulette",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -8358,26 +8358,6 @@
    "uppdragId": null
   },
   {
-   "id": "auto.gadget-drop.fel-364",
-   "projekt": "gadget-drop",
-   "titel": "Task #364 got stuck",
-   "text": "«📂 Gadget Drop → AMAZON RESELL Reseller-webbsida Vercel-deployment\n\n↩️ Komplettera ⏸ Pausad #244\nFel sök alla youtube videos affiliate links» ended with: Granskningen gick på den fria vägen (CLI-rutinen 08:20, noll kostnad): alla 165 videor HAR sin taggade länk, 0 fel i pengakontrollen. Men mr-gadget.vercel.app svarar sedan ~08:40 403 'Vercel Security ",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "medium",
-   "foljd": "A task here stopped on an obstacle. Whatever it was supposed to deliver was never delivered, and it will not retry by itself.",
-   "kalla": "scan",
-   "skapad": "2026-09-18T05:40:18.867Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "tgKey": "fabighbg",
-   "tgAt": "2026-09-18T07:40:33.454Z",
-   "tgMsg": 11360,
-   "rutin": null
-  },
-  {
    "id": "auto.gadget-drop.rorelse",
    "projekt": "gadget-drop",
    "titel": "No respect for prefers-reduced-motion",
@@ -8460,26 +8440,6 @@
    "beslutAt": null,
    "uppdragId": null,
    "atgardad": null,
-   "rutin": null
-  },
-  {
-   "id": "auto.quiz-runner.fel-344",
-   "projekt": "quiz-runner",
-   "titel": "Task #344 got stuck",
-   "text": "«Quiz Rush: kör deployen — «cd quiz-runner && node quizcli.js deploy --ja». Bakgrundssessionen fick «Production Deploy» nekat 16/9 22:45, så » ended with: Deployen nekas av Vercels kontotak (mer an 100 pa 24 h) - fjarde forsoket. Grundorsak: Work Listen sjalv gjorde 19 deploys senaste timmen och haller fonstret stangt. Quiz Rush ar fardigt och verifiera",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "medium",
-   "foljd": "A task here stopped on an obstacle. Whatever it was supposed to deliver was never delivered, and it will not retry by itself.",
-   "kalla": "scan",
-   "skapad": "2026-09-18T05:40:18.867Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "tgKey": "7naiwhb3",
-   "tgAt": "2026-09-18T08:30:45.797Z",
-   "tgMsg": 11370,
    "rutin": null
   },
   {
@@ -8568,26 +8528,6 @@
    "tgKey": "kccnejcm",
    "tgAt": "2026-09-18T11:00:25.501Z",
    "tgMsg": 11405,
-   "rutin": null
-  },
-  {
-   "id": "auto.the-work-list.fel-383",
-   "projekt": "the-work-list",
-   "titel": "Task #383 got stuck",
-   "text": "«Setup sp codex is linkable with my phone app chatgpt on Android fix\n\nBilder som följde med (öppna dem med Read innan du svarar):\n  C:\\Users\\» ended with: Datorn ar redan redo: Codex-desktopappen har parnings-UI:t och kor 0.154. Kvar ar tva saker bara du kan gora: 1) sla pa 'Remote control access' i workspace-installningarna pa chatgpt.com (du ar owner ",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "medium",
-   "foljd": "A task here stopped on an obstacle. Whatever it was supposed to deliver was never delivered, and it will not retry by itself.",
-   "kalla": "scan",
-   "skapad": "2026-09-18T05:40:18.867Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "tgKey": "ce2jqchc",
-   "tgAt": "2026-09-18T11:50:16.826Z",
-   "tgMsg": 11420,
    "rutin": null
   },
   {
@@ -9375,7 +9315,7 @@
   {
    "id": "auto.fondkompassen.vilande",
    "projekt": "fondkompassen",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -10327,7 +10267,7 @@
   {
    "id": "auto.language-learning-other.vilande",
    "projekt": "language-learning-other",
-   "titel": "Nothing has happened in 58 days",
+   "titel": "Nothing has happened in 60 days",
    "text": "The last change was 2026-08-04. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -11107,7 +11047,7 @@
   {
    "id": "auto.gmail-improvement-sliding.vilande",
    "projekt": "gmail-improvement-sliding",
-   "titel": "Nothing has happened in 57 days",
+   "titel": "Nothing has happened in 59 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -11532,7 +11472,7 @@
   {
    "id": "auto.pubmed-applikation-swipa.vilande",
    "projekt": "pubmed-applikation-swipa",
-   "titel": "Nothing has happened in 57 days",
+   "titel": "Nothing has happened in 59 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -11719,7 +11659,7 @@
   {
    "id": "auto.telegram-autocommit.vilande",
    "projekt": "telegram-autocommit",
-   "titel": "Nothing has happened in 57 days",
+   "titel": "Nothing has happened in 59 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -12094,7 +12034,7 @@
   {
    "id": "auto.ddxai.vilande",
    "projekt": "ddxai",
-   "titel": "Nothing has happened in 56 days",
+   "titel": "Nothing has happened in 58 days",
    "text": "The last change was 2026-08-06. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -12332,7 +12272,7 @@
   {
    "id": "auto.live-oversattare-samtal.vilande",
    "projekt": "live-oversattare-samtal",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -14342,7 +14282,7 @@
   {
    "id": "auto.synergy-application-regarding.vilande",
    "projekt": "synergy-application-regarding",
-   "titel": "Nothing has happened in 57 days",
+   "titel": "Nothing has happened in 59 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -14683,7 +14623,7 @@
   {
    "id": "auto.ovningsportal-bt-folk.vilande",
    "projekt": "ovningsportal-bt-folk",
-   "titel": "Nothing has happened in 57 days",
+   "titel": "Nothing has happened in 59 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -14917,7 +14857,7 @@
   {
    "id": "auto.allinclusive-finder.vilande",
    "projekt": "allinclusive-finder",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -14968,7 +14908,7 @@
   {
    "id": "auto.cv-claude-dar.vilande",
    "projekt": "cv-claude-dar",
-   "titel": "Nothing has happened in 57 days",
+   "titel": "Nothing has happened in 59 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15019,7 +14959,7 @@
   {
    "id": "auto.kalender-skogen.vilande",
    "projekt": "kalender-skogen",
-   "titel": "Nothing has happened in 59 days",
+   "titel": "Nothing has happened in 61 days",
    "text": "The last change was 2026-08-03. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15068,26 +15008,9 @@
    "rutin": null
   },
   {
-   "id": "auto.rutin.husvakten-robotsynk.avstangd",
-   "projekt": "rutin.husvakten-robotsynk",
-   "rutin": "Husvakten Robotsynk",
-   "titel": "The routine is disabled",
-   "text": "«Husvakten Robotsynk» (the scheduler) is disabled. Turn it on if it's needed, otherwise remove it so the list stays true.",
-   "grad": 2,
-   "nytta": "low",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-09-27T08:44:47.311Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine is switched off. It looks scheduled on the list, but nothing is actually happening."
-  },
-  {
    "id": "auto.spindelnatet.vilande",
    "projekt": "spindelnatet",
-   "titel": "Nothing has happened in 50 days",
+   "titel": "Nothing has happened in 52 days",
    "text": "The last change was 2026-08-12. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15104,7 +15027,7 @@
   {
    "id": "auto.startup-admin-boost.vilande",
    "projekt": "startup-admin-boost",
-   "titel": "Nothing has happened in 50 days",
+   "titel": "Nothing has happened in 52 days",
    "text": "The last change was 2026-08-12. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15121,7 +15044,7 @@
   {
    "id": "auto.stockholm-dag.vilande",
    "projekt": "stockholm-dag",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15138,7 +15061,7 @@
   {
    "id": "auto.tangentbordsapp-dar-skriva.vilande",
    "projekt": "tangentbordsapp-dar-skriva",
-   "titel": "Nothing has happened in 56 days",
+   "titel": "Nothing has happened in 58 days",
    "text": "The last change was 2026-08-06. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15309,7 +15232,7 @@
   {
    "id": "auto.marcs-halsoai.vilande",
    "projekt": "marcs-halsoai",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15428,7 +15351,7 @@
   {
    "id": "auto.us-proxy-browser.vilande",
    "projekt": "us-proxy-browser",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15546,7 +15469,7 @@
   {
    "id": "auto.cv-portal.vilande",
    "projekt": "cv-portal",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15580,7 +15503,7 @@
   {
    "id": "auto.klinisk-evidens.vilande",
    "projekt": "klinisk-evidens",
-   "titel": "Nothing has happened in 60 days",
+   "titel": "Nothing has happened in 62 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15714,23 +15637,6 @@
    "rutin": null
   },
   {
-   "id": "auto.rutin.autostart-lasskarm.aldrig-kord",
-   "projekt": "rutin.autostart-lasskarm",
-   "rutin": "Autostart-LasSkarm",
-   "titel": "Has never run",
-   "text": "«Autostart-LasSkarm» (the scheduler, At logon time) is enabled but has no run behind it. Run it once by hand and confirm it works.",
-   "grad": 2,
-   "nytta": "medium",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-01T05:40:53.517Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine has never run once since it was set up. Everything it was meant to do is simply not being done."
-  },
-  {
    "id": "auto.the-work-list.ingen-skarmbild",
    "projekt": "the-work-list",
    "titel": "No screenshot",
@@ -15779,27 +15685,8 @@
    "atgardad": null,
    "tgKey": "b6tus4tv",
    "tgAt": "2026-10-02T05:40:49.532Z",
-   "tgMsg": 15862
-  },
-  {
-   "id": "auto.rutin.drjonsson-drain.fel",
-   "projekt": "rutin.drjonsson-drain",
-   "rutin": "DrJonsson-Drain",
-   "titel": "The routine ended with an error",
-   "text": "«DrJonsson-Drain» (the scheduler, daily 10:00, 13:00, 16:00, 19:00, 22:00) last returned: fel 0xc0000005. Find out why and run it again.",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
-   "tgKey": "bhmkrn0s",
-   "tgAt": "2026-10-02T05:41:06.324Z",
-   "tgMsg": 15864
+   "tgMsg": 15862,
+   "rutin": null
   },
   {
    "id": "auto.rutin.gadgetdrop-resellersync.fel",
@@ -15882,26 +15769,6 @@
    "tgMsg": 15917
   },
   {
-   "id": "auto.rutin.worklist-live.fel",
-   "projekt": "rutin.worklist-live",
-   "rutin": "WorkList-Live",
-   "titel": "The routine ended with an error",
-   "text": "«WorkList-Live» (the scheduler, At logon time) last returned: fel 0x40010004. Find out why and run it again.",
-   "grad": 4,
-   "nytta": "high",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up.",
-   "tgKey": "09vjts54",
-   "tgAt": "2026-10-02T08:20:15.481Z",
-   "tgMsg": 15947
-  },
-  {
    "id": "auto.the-work-list.absolut-sokvag-18ykqe",
    "projekt": "the-work-list",
    "titel": "Hardcoded Windows path in openevidence.py",
@@ -15918,7 +15785,8 @@
    "atgardad": null,
    "tgKey": "0ird2wyr",
    "tgAt": "2026-10-02T08:20:18.234Z",
-   "tgMsg": 15949
+   "tgMsg": 15949,
+   "rutin": null
   },
   {
    "id": "auto.the-work-list.absolut-sokvag-1fuafu",
@@ -15937,7 +15805,8 @@
    "atgardad": null,
    "tgKey": "5g9mtps4",
    "tgAt": "2026-10-02T09:20:16.912Z",
-   "tgMsg": 15958
+   "tgMsg": 15958,
+   "rutin": null
   },
   {
    "id": "auto.medhop-daily.viewport-hzw7ir",
@@ -15953,7 +15822,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.patientfall-daily.viewport-hzw7ir",
@@ -15969,24 +15839,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
-  },
-  {
-   "id": "auto.rutin.gadgetdrop-drain.sen",
-   "projekt": "rutin.gadgetdrop-drain",
-   "rutin": "GadgetDrop-Drain",
-   "titel": "Has not run on its interval",
-   "text": "«GadgetDrop-Drain» (every 4 h) has not run when it should have. Last run: 2026-10-01 19:35.",
-   "grad": 3,
-   "nytta": "medium",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
    "atgardad": null,
-   "foljd": "The routine keeps starting late. Anything timed to it — a publish, a post — drifts later and later."
+   "rutin": null
   },
   {
    "id": "auto.session-tracker.viewport-6hq53z",
@@ -16002,7 +15856,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.marcs-resell.rorelse",
@@ -16018,7 +15873,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.rutin.marcshalsoai-1177-paminnelse.aldrig-kord",
@@ -16026,74 +15882,6 @@
    "rutin": "MarcsHalsoAI-1177-Paminnelse",
    "titel": "Has never run",
    "text": "«MarcsHalsoAI-1177-Paminnelse» (the scheduler, Sun 10:00) is enabled but has no run behind it. Run it once by hand and confirm it works.",
-   "grad": 2,
-   "nytta": "medium",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine has never run once since it was set up. Everything it was meant to do is simply not being done."
-  },
-  {
-   "id": "auto.rutin.marcshalsoai-veckobrief.aldrig-kord",
-   "projekt": "rutin.marcshalsoai-veckobrief",
-   "rutin": "MarcsHalsoAI-Veckobrief",
-   "titel": "Has never run",
-   "text": "«MarcsHalsoAI-Veckobrief» (the scheduler, Fri 20:30) is enabled but has no run behind it. Run it once by hand and confirm it works.",
-   "grad": 2,
-   "nytta": "medium",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine has never run once since it was set up. Everything it was meant to do is simply not being done."
-  },
-  {
-   "id": "auto.rutin.rutin-ekonomi-morgonrad.aldrig-kord",
-   "projekt": "rutin.rutin-ekonomi-morgonrad",
-   "rutin": "Rutin-ekonomi-morgonrad",
-   "titel": "Has never run",
-   "text": "«Rutin-ekonomi-morgonrad» (the scheduler, daily 09:00) is enabled but has no run behind it. Run it once by hand and confirm it works.",
-   "grad": 2,
-   "nytta": "medium",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine has never run once since it was set up. Everything it was meant to do is simply not being done."
-  },
-  {
-   "id": "auto.rutin.rutin-reklamation-dagkoll.aldrig-kord",
-   "projekt": "rutin.rutin-reklamation-dagkoll",
-   "rutin": "Rutin-reklamation-dagkoll",
-   "titel": "Has never run",
-   "text": "«Rutin-reklamation-dagkoll» (the scheduler, daily 09:00) is enabled but has no run behind it. Run it once by hand and confirm it works.",
-   "grad": 2,
-   "nytta": "medium",
-   "insats": "small",
-   "kalla": "routine guard",
-   "skapad": "2026-10-02T05:40:32.902Z",
-   "beslut": null,
-   "beslutAt": null,
-   "uppdragId": null,
-   "atgardad": null,
-   "foljd": "The routine has never run once since it was set up. Everything it was meant to do is simply not being done."
-  },
-  {
-   "id": "auto.rutin.syncthing-halsamarc.aldrig-kord",
-   "projekt": "rutin.syncthing-halsamarc",
-   "rutin": "Syncthing-HalsaMarc",
-   "titel": "Has never run",
-   "text": "«Syncthing-HalsaMarc» (the scheduler, At logon time) is enabled but has no run behind it. Run it once by hand and confirm it works.",
    "grad": 2,
    "nytta": "medium",
    "insats": "small",
@@ -16152,68 +15940,203 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null
+  },
+  {
+   "id": "auto.marcs-halsoai.absolut-sokvag-1t4kof",
+   "projekt": "marcs-halsoai",
+   "titel": "Hardcoded Windows path in inloggningar.mjs",
+   "text": "tools/inloggningar.mjs has 1 path that only exist on this computer (E:\\ or C:\\Users). The code breaks as soon as it runs anywhere else. Use __dirname, path.join, or an environment variable.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "foljd": "The code points at a folder that only exists on this machine. On any other computer it stops working immediately.",
+   "kalla": "scan",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.rutin.codexreserve-night.fel",
+   "projekt": "rutin.codexreserve-night",
+   "rutin": "CodexReserve-Night",
+   "titel": "The routine ended with an error",
+   "text": "«CodexReserve-Night» (the scheduler, daily 00:02) last returned: fel 0x40010004. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-amazon-case-mailvakt.fel",
+   "projekt": "rutin.rutin-amazon-case-mailvakt",
+   "rutin": "Rutin-amazon-case-mailvakt",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-amazon-case-mailvakt» (the scheduler, daily 07:00, 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 23:00) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-catch-up-americas.fel",
+   "projekt": "rutin.rutin-catch-up-americas",
+   "rutin": "Rutin-catch-up-americas",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-catch-up-americas» (the scheduler, daily 17:25) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-catch-up-cee.fel",
+   "projekt": "rutin.rutin-catch-up-cee",
+   "rutin": "Rutin-catch-up-cee",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-catch-up-cee» (the scheduler, daily 13:10) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.rutin.rutin-drjonsson-etsy-verifiering.fel",
+   "projekt": "rutin.rutin-drjonsson-etsy-verifiering",
+   "rutin": "Rutin-drjonsson-etsy-verifiering",
+   "titel": "The routine ended with an error",
+   "text": "«Rutin-drjonsson-etsy-verifiering» (the scheduler, every 3 h) last returned: fel 0x1. Find out why and run it again.",
+   "grad": 4,
+   "nytta": "high",
+   "insats": "small",
+   "kalla": "routine guard",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null,
+   "foljd": "The routine is failing, so the work it was supposed to do is not getting done — and nothing else is picking it up."
+  },
+  {
+   "id": "auto.medhop-daily.viewport-j7r51t",
+   "projekt": "medhop-daily",
+   "titel": "a1.html is not mobile-friendly",
+   "text": "outputs/2026-08-14-stills/a1.html is missing <meta name=\"viewport\">. On mobile the page gets zoomed out to an unreadable size. Add the line to <head>.",
+   "grad": 3,
+   "nytta": "high",
+   "insats": "small",
+   "foljd": "On a phone the page opens zoomed out, with text too small to read. Most visitors arrive on a phone.",
+   "kalla": "scan",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.patientfall-daily.viewport-j7r51t",
+   "projekt": "patientfall-daily",
+   "titel": "a1.html is not mobile-friendly",
+   "text": "outputs/2026-08-14-stills/a1.html is missing <meta name=\"viewport\">. On mobile the page gets zoomed out to an unreadable size. Add the line to <head>.",
+   "grad": 3,
+   "nytta": "high",
+   "insats": "small",
+   "foljd": "On a phone the page opens zoomed out, with text too small to read. Most visitors arrive on a phone.",
+   "kalla": "scan",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.session-tracker.viewport-gadld6",
+   "projekt": "session-tracker",
+   "titel": "bgframe.html is not mobile-friendly",
+   "text": "tools/bgframe.html is missing <meta name=\"viewport\">. On mobile the page gets zoomed out to an unreadable size. Add the line to <head>.",
+   "grad": 3,
+   "nytta": "high",
+   "insats": "small",
+   "foljd": "On a phone the page opens zoomed out, with text too small to read. Most visitors arrive on a phone.",
+   "kalla": "scan",
+   "skapad": "2026-10-03T19:01:36.944Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
   }
  ],
- "skannat": "2026-10-02T05:40:32.903Z",
+ "skannat": "2026-10-03T19:01:36.945Z",
  "ranson": {
-  "dag": "2026-10-02",
-  "nya": 19,
-  "kvar": 98,
+  "dag": "2026-10-03",
+  "nya": 9,
+  "kvar": 94,
   "perProjekt": [
    {
     "projekt": "marcs-halsoai",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 6
+    "kvar": 5
    },
    {
-    "projekt": "rutin.drjonsson-drain",
+    "projekt": "rutin.codexreserve-night",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.gadgetdrop-resellersync",
+    "projekt": "rutin.rutin-amazon-case-mailvakt",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.marcsresell-sync",
+    "projekt": "rutin.rutin-catch-up-americas",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.rutin-catch-up-longform-master",
+    "projekt": "rutin.rutin-catch-up-cee",
     "niva": null,
     "ranson": 1,
     "nya": 1,
     "kvar": 0
    },
    {
-    "projekt": "rutin.rutin-ekonomi-kvallslage",
+    "projekt": "rutin.rutin-drjonsson-etsy-verifiering",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "rutin.worklist-live",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "the-work-list",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 2,
     "kvar": 0
    },
    {
@@ -16221,70 +16144,21 @@
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 15
+    "kvar": 14
    },
    {
     "projekt": "patientfall-daily",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 42
-   },
-   {
-    "projekt": "rutin.gadgetdrop-drain",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
+    "kvar": 41
    },
    {
     "projekt": "session-tracker",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 35
-   },
-   {
-    "projekt": "marcs-resell",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "rutin.marcshalsoai-1177-paminnelse",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "rutin.marcshalsoai-veckobrief",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "rutin.rutin-ekonomi-morgonrad",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "rutin.rutin-reklamation-dagkoll",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "rutin.syncthing-halsamarc",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
+    "kvar": 34
    }
   ]
  }
