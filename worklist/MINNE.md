@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 4 öppna · 9 pausade · 0 pågår
-- Claude: kör — run 2026-10-03-2002 in progress
-- Codex: kvotstopp — quota used up 42 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Listan: 2 öppna · 11 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 0 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kör — run 2026-10-03-2002 in progress
 - Antigravity: redo — last 03/10 20:00: tyst i 30 min
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:03 | Codex | Codex 101/102 (codex exec) |  | stopp | Codex: kvoten är slut (13 kvar) | Antigravity tar över |
 | 03/10 20:03 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | stopp | Claude: kvoten är slut (13 kvar) | Codex tar över |
 | 03/10 20:02 | Claude | bevakningen |  | pass | pass 2026-10-03-2002 börjar (bevakningen): 13 att göra, turordning Claude → Codex → Antigravity |  |
 | 03/10 20:00 | Claude | bevakningen |  | pass-slut | pass 2026-10-03-1900 slut: 6 klara, 0 hinder, 11 kvar — Claude: kvoten är slut · Codex: kvoten är slut · Antigravity: tyst i 30 min | nästa pass 22:00 Antigravity |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 29/09 02:00 | Codex | schemat |  | pass-slut | pass 2026-09-29-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
 | 29/09 00:00 | Claude | schemat |  | pass-slut | pass 2026-09-29-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 28/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-28-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
-| 28/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-28-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
