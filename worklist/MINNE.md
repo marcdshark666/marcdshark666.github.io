@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 2 öppna · 8 pausade · 1 pågår
+- Listan: 2 öppna · 8 pausade · 0 pågår
 - Claude: kvotstopp — quota used up 3 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 2 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Codex: kvotstopp — quota used up 3 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-2002 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:06 | Antigravity | Antigravity | #1589 | done | Uppfattat! Från och med nu ska vi alltid söka alternativa tekniska lösningar istället för att pausa. Om vi måste pausa ger vi minst 3 konkreta vägar framåt. Många av dagens pauser berodde på kvotstopp (Claude/Codex tog slut) - vi roterar nu agenter bättre för att undvika det. |  |
 | 03/10 20:06 | Antigravity | Antigravity | #1589 | start | Löser uppdraget att sluta pausa oavsiktligt. |  |
 | 03/10 20:06 | Antigravity | Antigravity | #1588 | done | Har skapat ett bakgrundsskript som bevakar om Netflix är öppet i Chrome och då automatiskt höjer prioriteten till High för att minska lagg. Startas vid inloggning. |  |
 | 03/10 20:05 | Antigravity | Antigravity | #1588 | start | Skapar och schemalägger optimize-netflix.ps1. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 29/09 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-29-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 29/09 14:00 | Codex | schemat |  | pass-slut | pass 2026-09-29-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 29/09 12:00 | Claude | schemat |  | pass-slut | pass 2026-09-29-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
-| 29/09 10:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-29-1000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
