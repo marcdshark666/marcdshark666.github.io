@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:02. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:22. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 0 öppna · 3 pausade · 0 pågår
-- Claude: kör — run 2026-10-03-1900 in progress
-- Codex: redo — last 24/09 17:43: klar
+- Listan: 2 öppna · 4 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 6 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kör — run 2026-10-03-1900 in progress
 - Antigravity: redo — last 26/09 10:04: klar
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 19:22 | Codex | Codex 101/102 (codex exec) |  | stopp | Codex: kvoten är slut (6 kvar) | Antigravity tar över |
 | 03/10 19:02 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | stopp | Claude: kvoten är slut (3 kvar) | Codex tar över |
 | 03/10 19:01 | Claude | bevakningen |  | pass | pass 2026-10-03-1900 börjar (bevakningen): 3 att göra, turordning Claude → Codex → Antigravity |  |
 | 03/10 18:48 |  |  |  | not | Privat Telegramregistrering installerad pa lokal port 5192. Dold synk varje minut, timvis Codex-bevakning, mottagaren omladdad. Fyra tester och privat bygge godkanda. Inga verkliga nya observationer annu. | Forsta verkliga meddelandet med valt prefix verifieras i privat Journal; instruktioner i projektets CLAUDE.md. |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 26/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-26-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
 | 26/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-26-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 26/09 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-26-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
-| 26/09 14:01 | Codex | schemat |  | pass-slut | pass 2026-09-26-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
