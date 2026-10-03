@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 2 öppna · 7 pausade · 1 pågår
+- Listan: 2 öppna · 7 pausade · 0 pågår
 - Claude: kvotstopp — quota used up 4 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 3 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-2002 in progress
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:07 | Antigravity | Antigravity | #1591 | done | Det nya Netflix-optimeringsskriptet minskar lagg genom att sänka andras prioritet och ge Chrome max resurser. Vill du att datorn rentav ska döda appar kan vi lägga in auto-kill på specifika bakgrundsprogram, men prio-ändringen bör lösa hackandet först. |  |
 | 03/10 20:07 | Antigravity | Antigravity | #1591 | start | Besvarar angående processhantering. |  |
 | 03/10 20:06 | Antigravity | Antigravity | #1590 | paus | Lade till grundläggande Tailscale-kategori i projects.html. Väntar på deploy av Claude/Marc, samt mer kontext för att bygga en helt scrollbar app-vy. | nästa pass fortsätter där det slutade |
 | 03/10 20:06 | Antigravity | Antigravity | #1590 | start | Skapar vy för Tailscale-projekt. |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 30/09 00:00 | Claude | schemat |  | pass-slut | pass 2026-09-30-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 29/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-29-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 29/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-29-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
-| 29/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-29-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
