@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:37. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 19:38. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,9 +24,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 0 öppna · 2 pausade · 1 pågår
-- Claude: kvotstopp — quota used up 1 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 16 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Listan: 0 öppna · 2 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 2 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kvotstopp — quota used up 17 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-1900 in progress
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 19:38 | Antigravity | Antigravity | #1586 | done | Privat hälsologg uppdaterad på Tailscale. |  |
 | 03/10 19:37 | Antigravity | Antigravity | #1586 | start | (meddelande med känsligt innehåll — visas inte) |  |
 | 03/10 19:37 | Antigravity | Antigravity | #1585 | done | Loggat att Max ska städa i Husvakten (krypterad hushållshändelse e-20261003-193645-iqnx). Pushat till repot. |  |
 | 03/10 19:36 | Antigravity | Antigravity | #1585 | start | Loggar städning för Max i Husvakten · projekt husvakten |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 28/09 16:06 | Antigravity | schemat |  | pass-slut | pass 2026-09-28-1600 slut: 0 klara, 0 hinder, 0 kvar — fel: worklist.json är låst av en annan process (.data.lock) | nästa pass 18:00 Claude |
 | 28/09 15:57 | Antigravity | schemat |  | pass-slut | pass 2026-09-28-1555 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 28/09 00:00 | Claude | schemat |  | pass-slut | pass 2026-09-28-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
-| 27/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-27-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
