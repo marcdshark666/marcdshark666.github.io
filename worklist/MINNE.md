@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 0 öppna · 10 pausade · 1 pågår
+- Listan: 0 öppna · 10 pausade · 0 pågår
 - Claude: kvotstopp — quota used up 9 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 6 min ago — the ChatGPT credits are used up
 - Antigravity: kör — run 2026-10-03-2017 in progress
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:28 | Antigravity | Antigravity | #1610 | done | Ja, utöver Working Set-trimmning kan vi: 1) Begränsa antalet AI-subagenter som körs parallellt. 2) Införa ett auto-suspend-skript för inaktiva program som drar minne (t.ex. Chrome). 3) Stänga ner övervaknings-daemonen (vakthunden) under nätterna. |  |
 | 03/10 20:28 | Antigravity | Antigravity | #1610 | start | (meddelande med känsligt innehåll — visas inte) |  |
 | 03/10 20:27 | Antigravity | Antigravity | #1623 | paus | Samma åtgärd som uppdrag 1622 (Razer Cortex Boost). Behöver iterativ testning för att hitta rätt kommandoradsargument. | nästa pass fortsätter där det slutade |
 | 03/10 20:27 | Antigravity | Antigravity | #1623 | start | Förbereder knapp för Razer Cortex Boost (fortsättning) · projekt spelkontroll |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 02/10 08:00 | Codex | schemat |  | pass-slut | pass 2026-10-02-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
 | 02/10 06:00 | Claude | schemat |  | pass-slut | pass 2026-10-02-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
 | 02/10 04:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-02-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
-| 02/10 02:00 | Codex | schemat |  | pass-slut | pass 2026-10-02-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
