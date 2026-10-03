@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:00. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:03. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -8,26 +8,26 @@ _Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och
 |---|---|---|---|
 | 00:00 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) | WorkList-Claude |
 | 02:00 | Codex | Codex 101/102 (codex exec) | WorkList-Codex |
-| 04:00 | Antigravity | Antigravity 201 (Antigravity-appen via agentapi) | WorkList-Antigravity |
+| 04:00 | Antigravity | Antigravity 201–208 (Antigravity subagenter, upp till 8 parallellt) | WorkList-Antigravity |
 | 06:00 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) | WorkList-Claude |
 | 08:00 | Codex | Codex 101/102 (codex exec) | WorkList-Codex |
-| 10:00 | Antigravity | Antigravity 201 (Antigravity-appen via agentapi) | WorkList-Antigravity |
+| 10:00 | Antigravity | Antigravity 201–208 (Antigravity subagenter, upp till 8 parallellt) | WorkList-Antigravity |
 | 12:00 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) | WorkList-Claude |
 | 14:00 | Codex | Codex 101/102 (codex exec) | WorkList-Codex |
-| 16:00 | Antigravity | Antigravity 201 (Antigravity-appen via agentapi) | WorkList-Antigravity |
+| 16:00 | Antigravity | Antigravity 201–208 (Antigravity subagenter, upp till 8 parallellt) | WorkList-Antigravity |
 | 18:00 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) | WorkList-Claude |
 | 20:00 | Codex | Codex 101/102 (codex exec) | WorkList-Codex |
-| 22:00 | Antigravity | Antigravity 201 (Antigravity-appen via agentapi) | WorkList-Antigravity |
+| 22:00 | Antigravity | Antigravity 201–208 (Antigravity subagenter, upp till 8 parallellt) | WorkList-Antigravity |
 
 Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets steg går först; kan det inte (utloggat, kvot slut, saknas) tar nästa över, så listan alltid betas av. Bevakningen `WorkList-Poll` (var 10:e min) går Claude först. Codex och Antigravity får koda, testa och commita lokalt — aldrig deploya, pusha eller betala (protokoll 4 och 8 i `.agents/PROTOKOLL.md`). Ett uppdrag som kräver deploy pausas med "väntar på deploy" och tas i Claudes nästa pass.
 
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 9 öppna · 2 pausade · 0 pågår
-- Claude: kvotstopp — quota used up 0 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 39 min ago — the ChatGPT credits are used up — resets 03/10 23:36
-- Antigravity: kör — run 2026-10-03-1900 in progress
+- Listan: 4 öppna · 9 pausade · 0 pågår
+- Claude: kör — run 2026-10-03-2002 in progress
+- Codex: kvotstopp — quota used up 42 min ago — the ChatGPT credits are used up — resets 03/10 23:36
+- Antigravity: redo — last 03/10 20:00: tyst i 30 min
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
 
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:03 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | stopp | Claude: kvoten är slut (13 kvar) | Codex tar över |
+| 03/10 20:02 | Claude | bevakningen |  | pass | pass 2026-10-03-2002 börjar (bevakningen): 13 att göra, turordning Claude → Codex → Antigravity |  |
 | 03/10 20:00 | Claude | bevakningen |  | pass-slut | pass 2026-10-03-1900 slut: 6 klara, 0 hinder, 11 kvar — Claude: kvoten är slut · Codex: kvoten är slut · Antigravity: tyst i 30 min | nästa pass 22:00 Antigravity |
 | 03/10 20:00 | Antigravity | Antigravity 201 (Antigravity-appen via agentapi) |  | steg-klart | Antigravity: tyst i 30 min (11 kvar) |  |
 | 03/10 19:38 | Antigravity | Antigravity | #1586 | done | Privat hälsologg uppdaterad på Tailscale. |  |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 29/09 00:00 | Claude | schemat |  | pass-slut | pass 2026-09-29-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 28/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-28-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 28/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-28-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
-| 28/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-28-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
-| 28/09 16:06 | Antigravity | schemat |  | pass-slut | pass 2026-09-28-1600 slut: 0 klara, 0 hinder, 0 kvar — fel: worklist.json är låst av en annan process (.data.lock) | nästa pass 18:00 Claude |
