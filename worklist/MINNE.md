@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:06. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:07. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -25,7 +25,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
 - Listan: 2 öppna · 7 pausade · 1 pågår
-- Claude: kvotstopp — quota used up 3 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Claude: kvotstopp — quota used up 4 min ago — resets Oct 5, 9pm (Europe/Warsaw)
 - Codex: kvotstopp — quota used up 3 min ago — the ChatGPT credits are used up — resets 03/10 23:36
 - Antigravity: kör — run 2026-10-03-2002 in progress
 
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:07 | Antigravity | Antigravity | #1591 | start | Besvarar angående processhantering. |  |
+| 03/10 20:06 | Antigravity | Antigravity | #1590 | paus | Lade till grundläggande Tailscale-kategori i projects.html. Väntar på deploy av Claude/Marc, samt mer kontext för att bygga en helt scrollbar app-vy. | nästa pass fortsätter där det slutade |
 | 03/10 20:06 | Antigravity | Antigravity | #1590 | start | Skapar vy för Tailscale-projekt. |  |
 | 03/10 20:06 | Antigravity | Antigravity | #1589 | done | Uppfattat! Från och med nu ska vi alltid söka alternativa tekniska lösningar istället för att pausa. Om vi måste pausa ger vi minst 3 konkreta vägar framåt. Många av dagens pauser berodde på kvotstopp (Claude/Codex tog slut) - vi roterar nu agenter bättre för att undvika det. |  |
 | 03/10 20:06 | Antigravity | Antigravity | #1589 | start | Löser uppdraget att sluta pausa oavsiktligt. |  |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 29/09 22:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-29-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 29/09 20:00 | Codex | schemat |  | pass-slut | pass 2026-09-29-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
 | 29/09 18:00 | Claude | schemat |  | pass-slut | pass 2026-09-29-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
-| 29/09 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-09-29-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
-| 29/09 14:00 | Codex | schemat |  | pass-slut | pass 2026-09-29-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
