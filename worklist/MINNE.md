@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:33. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 03/10 20:42. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,10 +24,10 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
-- Listan: 0 öppna · 0 pausade · 0 pågår
-- Claude: kvotstopp — quota used up 5 min ago — resets Oct 5, 9pm (Europe/Warsaw)
-- Codex: kvotstopp — quota used up 12 min ago — the ChatGPT credits are used up
-- Antigravity: kör — run 2026-10-03-2017 in progress
+- Listan: 2 öppna · 0 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 2 min ago — resets Oct 5, 9pm (Europe/Warsaw)
+- Codex: kvotstopp — quota used up 21 min ago — the ChatGPT credits are used up
+- Antigravity: redo — last 03/10 20:33: klar
 
 Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\worklist.js" minne` (senaste raderna) · `minne --rota` · `stegen` · `status`
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 03/10 20:42 | Claude | bevakningen |  | pass | pass 2026-10-03-2040 börjar (bevakningen): 2 att göra, turordning Claude → Codex → Antigravity |  |
 | 03/10 20:33 | Claude | bevakningen |  | pass-slut | pass 2026-10-03-2017 slut: 1 klara, 4 hinder, 0 kvar — Claude: kvoten är slut · Codex: kvoten är slut · Antigravity: klar | nästa pass 22:00 Antigravity |
 | 03/10 20:33 | Antigravity | Antigravity 201–208 (Antigravity subagenter, upp till 8 parallellt) |  | steg-klart | Antigravity: klar (0 kvar) |  |
 | 03/10 20:31 | Antigravity | Antigravity | #1633 | fail | Marc, att ändra sorteringen efter minnesanvändning och lägga in stängningsknappar per rad kräver iterativ utveckling och omstart av servern. Kräver testning vid datorn. | Marc behöver agera |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 03/10 18:43 |  |  |  | not | Husvakten Telegram aktiverat 2026-10-03 av Codex enligt Marcs order: både hushållslogg och appuppdrag. Skriv Husvakten: i marc_claudecode_bot. Riktad gemensam Work List-kö, inga AI-anrop vid mottagning. Reservvakt använder korrekt låst kö och undviker levande daemon. logga.js --kalla hindrar dubletter. Alla worker-prompter läser husvakten/TELEGRAM-UPPDRAG.md; specifik publiceringsorder gäller enda | Nästa Husvakten-meddelande tas i gemensamma kedjan Claude -> Codex -> Antigravity. Läs TELEGRAM-UPPDRAG.md och använd stabil --kalla. Inget verkligt Telegram-uppdrag har testloggats. |
 | 03/10 18:40 |  |  |  | not | Mr Gadget 3/10: livekontroll I_one1FNHZo visar kvarvarande AirPods-modellkonflikt. Originalfil ssstik.io_1789023702946.mp4 saknas pa registrerad plats; ingen namntraff pa Desktop, Downloads, Videos eller projektet. TXT anger Pro 3 men bevisar inte videons modell. Rapport state/codex-monitor-20261003.json. Inga publika andringar; stopp/lankskydd. Inte full kanal- eller lagerkontroll. | Prioritera att aterfinna originalklippet eller faststalla modellen visuellt, darefter verifiera exakta produktlankar och lager. Ovriga skyddade lankfel kvarstar. |
 | 03/10 18:01 | Claude | schemat |  | pass-slut | pass 2026-10-03-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
-| 03/10 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-03-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
