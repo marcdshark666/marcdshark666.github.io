@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 11/10 00:00. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 11/10 02:01. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -23,9 +23,9 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 
 ## Just nu
 
-- Pass just nu: **Claude** · nästa pass: idag 02:00 (Codex)
-- Listan: 0 öppna · 0 pausade · 0 pågår
-- Claude: kvotstopp — quota used up 19 min ago — resets Oct 12, 9pm (Europe/Warsaw)
+- Pass just nu: **Codex** · nästa pass: idag 04:00 (Antigravity)
+- Listan: 1 öppna · 0 pausade · 0 pågår
+- Claude: kvotstopp — quota used up 1 min ago — resets Oct 12, 9pm (Europe/Warsaw)
 - Codex: redo — last 10/10 09:59: klar
 - Antigravity: redo — last 09/10 16:47: klar
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 11/10 02:01 | Codex | schemat |  | pass | pass 2026-10-11-0200 börjar (schemalagt pass): 1 att göra, turordning Codex → Antigravity → Claude |  |
 | 11/10 00:00 | Claude | schemat |  | pass-slut | pass 2026-10-11-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 10/10 22:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-10-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
 | 10/10 20:00 | Codex | schemat |  | pass-slut | pass 2026-10-10-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 08/10 08:35 |  |  |  | not | Antigravity öppnade Gmail-fönstret via Chrome CDP (port 9222) för sändning av Solveig-spindelns STL och bilder. |  |
 | 08/10 08:31 |  |  |  | not | Antigravity integrerade interlocking kam-tänder (taggarna från MakerWorld 690448) med vår realistiska Tarantula-spindel, renderade nya bilder och skickade STL-delar samt förhandsvisningar till Telegram och Desktop. |  |
 | 08/10 08:02 | Codex | schemat |  | pass-slut | pass 2026-10-08-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
-| 08/10 06:00 | Claude | schemat |  | pass-slut | pass 2026-10-08-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
