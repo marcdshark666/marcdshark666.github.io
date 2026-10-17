@@ -871,7 +871,7 @@
   {
    "id": "auto.botlabbet.vilande",
    "projekt": "botlabbet",
-   "titel": "Nothing has happened in 88 days",
+   "titel": "Nothing has happened in 89 days",
    "text": "The last change was 2026-07-19. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -1853,7 +1853,7 @@
   {
    "id": "auto.bertils-halsoai.vilande",
    "projekt": "bertils-halsoai",
-   "titel": "Nothing has happened in 82 days",
+   "titel": "Nothing has happened in 83 days",
    "text": "The last change was 2026-07-25. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2335,7 +2335,7 @@
   {
    "id": "auto.gym-3d-streaks.vilande",
    "projekt": "gym-3d-streaks",
-   "titel": "Nothing has happened in 80 days",
+   "titel": "Nothing has happened in 81 days",
    "text": "The last change was 2026-07-27. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -2352,7 +2352,7 @@
   {
    "id": "auto.lilianas-salud.vilande",
    "projekt": "lilianas-salud",
-   "titel": "Nothing has happened in 78 days",
+   "titel": "Nothing has happened in 79 days",
    "text": "The last change was 2026-07-29. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -5888,7 +5888,7 @@
    "id": "auto.quiz-runner.inga-tester",
    "projekt": "quiz-runner",
    "titel": "No tests at all",
-   "text": "8 code files and not a single test. A smoke test that starts the project and checks the homepage responds catches most of what usually breaks.",
+   "text": "45 code files and not a single test. A smoke test that starts the project and checks the homepage responds catches most of what usually breaks.",
    "grad": 3,
    "nytta": "medium",
    "insats": "half-day",
@@ -7026,7 +7026,7 @@
   {
    "id": "auto.restaurang-roulette.vilande",
    "projekt": "restaurang-roulette",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -7945,8 +7945,8 @@
   {
    "id": "auto.quiz-runner.console-e46803",
    "projekt": "quiz-runner",
-   "titel": "21 console.log in quizcli.js",
-   "text": "quizcli.js logs to the console 21 times. Swap the ones that matter for a real logger and remove the rest — otherwise what's actually wrong drowns in noise.",
+   "titel": "22 console.log in quizcli.js",
+   "text": "quizcli.js logs to the console 22 times. Swap the ones that matter for a real logger and remove the rest — otherwise what's actually wrong drowns in noise.",
    "grad": 2,
    "nytta": "low",
    "insats": "small",
@@ -8744,7 +8744,7 @@
   {
    "id": "auto.fondkompassen.vilande",
    "projekt": "fondkompassen",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -9679,7 +9679,7 @@
   {
    "id": "auto.language-learning-other.vilande",
    "projekt": "language-learning-other",
-   "titel": "Nothing has happened in 72 days",
+   "titel": "Nothing has happened in 73 days",
    "text": "The last change was 2026-08-04. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -10374,7 +10374,7 @@
   {
    "id": "auto.gmail-improvement-sliding.vilande",
    "projekt": "gmail-improvement-sliding",
-   "titel": "Nothing has happened in 71 days",
+   "titel": "Nothing has happened in 72 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -10799,7 +10799,7 @@
   {
    "id": "auto.pubmed-applikation-swipa.vilande",
    "projekt": "pubmed-applikation-swipa",
-   "titel": "Nothing has happened in 71 days",
+   "titel": "Nothing has happened in 72 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -10986,7 +10986,7 @@
   {
    "id": "auto.telegram-autocommit.vilande",
    "projekt": "telegram-autocommit",
-   "titel": "Nothing has happened in 71 days",
+   "titel": "Nothing has happened in 72 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -11378,7 +11378,7 @@
   {
    "id": "auto.live-oversattare-samtal.vilande",
    "projekt": "live-oversattare-samtal",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -12784,7 +12784,7 @@
   {
    "id": "auto.synergy-application-regarding.vilande",
    "projekt": "synergy-application-regarding",
-   "titel": "Nothing has happened in 71 days",
+   "titel": "Nothing has happened in 72 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13088,7 +13088,7 @@
   {
    "id": "auto.ovningsportal-bt-folk.vilande",
    "projekt": "ovningsportal-bt-folk",
-   "titel": "Nothing has happened in 71 days",
+   "titel": "Nothing has happened in 72 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13302,7 +13302,7 @@
   {
    "id": "auto.allinclusive-finder.vilande",
    "projekt": "allinclusive-finder",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13353,7 +13353,7 @@
   {
    "id": "auto.cv-claude-dar.vilande",
    "projekt": "cv-claude-dar",
-   "titel": "Nothing has happened in 71 days",
+   "titel": "Nothing has happened in 72 days",
    "text": "The last change was 2026-08-05. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13404,7 +13404,7 @@
   {
    "id": "auto.kalender-skogen.vilande",
    "projekt": "kalender-skogen",
-   "titel": "Nothing has happened in 73 days",
+   "titel": "Nothing has happened in 74 days",
    "text": "The last change was 2026-08-03. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13455,7 +13455,7 @@
   {
    "id": "auto.spindelnatet.vilande",
    "projekt": "spindelnatet",
-   "titel": "Nothing has happened in 64 days",
+   "titel": "Nothing has happened in 65 days",
    "text": "The last change was 2026-08-12. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13472,7 +13472,7 @@
   {
    "id": "auto.startup-admin-boost.vilande",
    "projekt": "startup-admin-boost",
-   "titel": "Nothing has happened in 64 days",
+   "titel": "Nothing has happened in 65 days",
    "text": "The last change was 2026-08-12. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13489,7 +13489,7 @@
   {
    "id": "auto.stockholm-dag.vilande",
    "projekt": "stockholm-dag",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13506,7 +13506,7 @@
   {
    "id": "auto.tangentbordsapp-dar-skriva.vilande",
    "projekt": "tangentbordsapp-dar-skriva",
-   "titel": "Nothing has happened in 70 days",
+   "titel": "Nothing has happened in 71 days",
    "text": "The last change was 2026-08-06. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13728,7 +13728,7 @@
   {
    "id": "auto.us-proxy-browser.vilande",
    "projekt": "us-proxy-browser",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13846,7 +13846,7 @@
   {
    "id": "auto.cv-portal.vilande",
    "projekt": "cv-portal",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -13880,7 +13880,7 @@
   {
    "id": "auto.klinisk-evidens.vilande",
    "projekt": "klinisk-evidens",
-   "titel": "Nothing has happened in 74 days",
+   "titel": "Nothing has happened in 75 days",
    "text": "The last change was 2026-08-02. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15937,7 +15937,7 @@
   {
    "id": "auto.munder-difflin.vilande",
    "projekt": "munder-difflin",
-   "titel": "Nothing has happened in 53 days",
+   "titel": "Nothing has happened in 54 days",
    "text": "The last change was 2026-08-23. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -15954,7 +15954,7 @@
   {
    "id": "auto.munder-difflin-app.vilande",
    "projekt": "munder-difflin-app",
-   "titel": "Nothing has happened in 53 days",
+   "titel": "Nothing has happened in 54 days",
    "text": "The last change was 2026-08-23. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -16158,7 +16158,7 @@
   {
    "id": "auto.vakttornet.vilande",
    "projekt": "vakttornet",
-   "titel": "Nothing has happened in 53 days",
+   "titel": "Nothing has happened in 54 days",
    "text": "The last change was 2026-08-23. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -16926,8 +16926,8 @@
   {
    "id": "auto.the-work-list.tomt-catch-srfcno",
    "projekt": "the-work-list",
-   "titel": "10 empty catch blocks in projects.js",
-   "text": "projects.js swallows errors in 10 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "titel": "11 empty catch blocks in projects.js",
+   "text": "projects.js swallows errors in 11 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
    "grad": 3,
    "nytta": "medium",
    "insats": "small",
@@ -17513,8 +17513,8 @@
   {
    "id": "auto.the-work-list.inline-stil-1w1p7z",
    "projekt": "the-work-list",
-   "titel": "132 inline styles in projects.html",
-   "text": "projects.html has 132 style=\"…\" attributes. The look can not be changed in one place, and a CSP without 'unsafe-inline' disables them. Move them to classes.",
+   "titel": "135 inline styles in projects.html",
+   "text": "projects.html has 135 style=\"…\" attributes. The look can not be changed in one place, and a CSP without 'unsafe-inline' disables them. Move them to classes.",
    "grad": 2,
    "nytta": "low",
    "insats": "medium",
@@ -17717,7 +17717,7 @@
   {
    "id": "auto.rostagent.vilande",
    "projekt": "rostagent",
-   "titel": "Nothing has happened in 48 days",
+   "titel": "Nothing has happened in 49 days",
    "text": "The last change was 2026-08-28. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -18397,7 +18397,7 @@
   {
    "id": "auto.skarmstyrning.vilande",
    "projekt": "skarmstyrning",
-   "titel": "Nothing has happened in 48 days",
+   "titel": "Nothing has happened in 49 days",
    "text": "The last change was 2026-08-28. Decide: take the next step, or write in memory that the project is parked.",
    "grad": 2,
    "nytta": "low",
@@ -18663,14 +18663,15 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.rutin.plaud-bt-synk.fel",
    "projekt": "rutin.plaud-bt-synk",
    "rutin": "PLAUD-BT-Synk",
    "titel": "The routine ended with an error",
-   "text": "«PLAUD-BT-Synk» (the scheduler, daily 08:05, 10:05, 12:05, 14:05, 16:05, 18:05, 20:05, 22:05) last returned: fel 0x2. Find out why and run it again.",
+   "text": "«PLAUD-BT-Synk» (the scheduler, daily 08:05, 10:05, 12:05, 14:05, 16:05, 18:05, 20:05, 22:05) last returned: fel 0x1. Find out why and run it again.",
    "grad": 4,
    "nytta": "high",
    "insats": "small",
@@ -18696,7 +18697,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cynergi-med-flow.beskrivning-7mmv88",
@@ -18712,7 +18714,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.cynergi-med-flow.og-7mmv88",
@@ -18728,7 +18731,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.print-planer.inga-tester",
@@ -18744,7 +18748,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.spelkontroll.tomt-catch-1wuayg",
@@ -18760,7 +18765,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.aaron-prints.stor-bild-1okbzr",
@@ -18776,7 +18782,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.marcs-halsoai.ingen-minnespost",
@@ -18792,7 +18799,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.medhop-daily.stor-bild-1umi9y",
@@ -18808,7 +18816,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.patientfall-daily.beskrivning-owpw7j",
@@ -18824,7 +18833,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.session-tracker.ingen-minnespost",
@@ -18840,7 +18850,8 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
-   "atgardad": null
+   "atgardad": null,
+   "rutin": null
   },
   {
    "id": "auto.the-work-list.todo-1awez6",
@@ -18856,91 +18867,286 @@
    "beslut": null,
    "beslutAt": null,
    "uppdragId": null,
+   "atgardad": null,
+   "rutin": null
+  },
+  {
+   "id": "auto.manadsavrakning.viewport-swzo3h",
+   "projekt": "manadsavrakning",
+   "titel": "index.html is not mobile-friendly",
+   "text": "rapport/index.html is missing <meta name=\"viewport\">. On mobile the page gets zoomed out to an unreadable size. Add the line to <head>.",
+   "grad": 3,
+   "nytta": "high",
+   "insats": "small",
+   "foljd": "On a phone the page opens zoomed out, with text too small to read. Most visitors arrive on a phone.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.tomt-catch-4rm987",
+   "projekt": "quiz-runner",
+   "titel": "1 empty catch block in r_kred.py",
+   "text": "natt/r_kred.py swallows errors in 1 catch block without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.tomt-catch-eeg2ii",
+   "projekt": "quiz-runner",
+   "titel": "1 empty catch block in p_ljud.py",
+   "text": "natt/p_ljud.py swallows errors in 1 catch block without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.tomt-catch-x04ztv",
+   "projekt": "quiz-runner",
+   "titel": "8 empty catch blocks in p_amb.py",
+   "text": "natt/p_amb.py swallows errors in 8 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.tomt-catch-xo1oww",
+   "projekt": "quiz-runner",
+   "titel": "1 empty catch block in p_ux.py",
+   "text": "natt/p_ux.py swallows errors in 1 catch block without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.quiz-runner.ingen-kravfil",
+   "projekt": "quiz-runner",
+   "titel": "Python without requirements.txt",
+   "text": "The project has Python code but no requirements.txt or pyproject.toml. Next time the environment needs setting up it is guesswork. Freeze the dependencies with `pip freeze`.",
+   "grad": 2,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "The project does not list what it needs to run. On another machine it fails, and the error will not say what is missing.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.spelkontroll.tomt-catch-1yaejh",
+   "projekt": "spelkontroll",
+   "titel": "3 empty catch blocks in server.py",
+   "text": "data/backup-2026-10-05/server.py swallows errors in 3 catch blocks without logging or handling them. The error is then never visible when something breaks. Log it, or comment why it's harmless.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "When something goes wrong, the project hides it and carries on. You get a page that quietly does the wrong thing instead of an error you can act on.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.tailscale-hemsidor.fokusmarkering",
+   "projekt": "tailscale-hemsidor",
+   "titel": "No focus indicator for keyboard users",
+   "text": "No :focus-visible rule in the styling. Someone navigating with a keyboard can not see where they are. Give buttons and links a clear outline on focus.",
+   "grad": 3,
+   "nytta": "medium",
+   "insats": "small",
+   "foljd": "Anyone moving through the page by keyboard cannot see where they are. It becomes unusable without a mouse.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.aaron-prints.stor-bild-ma9jn9",
+   "projekt": "aaron-prints",
+   "titel": "hero_7.png is 1504 kB",
+   "text": "branding/raw/hero_7.png is 1504 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.medhop-daily.stor-bild-5xd7bm",
+   "projekt": "medhop-daily",
+   "titel": "2026-08-14-narration.mp3 is 1389 kB",
+   "text": "outputs/2026-08-14-narration.mp3 is 1389 kB. On mobile data it's noticeable right away. Re-save it as webp at the size the page actually displays.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "A picture is far bigger than it needs to be. Visitors on phones wait longer and spend more of their data on it.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.patientfall-daily.beskrivning-vpjz9z",
+   "projekt": "patientfall-daily",
+   "titel": "case_nar.html is missing a description",
+   "text": "outputs/2026-08-14-stills/case_nar.html has no <meta name=\"description\">. Google and shares then show a random snippet from the page instead of a sentence you chose.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "When the link is shared or shows up in a search, there is no summary under it — just the address.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.print-planer.rorelse",
+   "projekt": "print-planer",
+   "titel": "No respect for prefers-reduced-motion",
+   "text": "The page animates but never checks whether the visitor has asked the system to reduce motion. An @media (prefers-reduced-motion: reduce) that turns off the transitions is enough.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Animations play even for people who have asked their device to reduce motion. For some that causes real discomfort.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
+   "atgardad": null
+  },
+  {
+   "id": "auto.session-tracker.ingen-robots",
+   "projekt": "session-tracker",
+   "titel": "No robots.txt",
+   "text": "https://nexus-session-tracker.vercel.app is missing robots.txt. For the private pages that means they could end up in search results; for the public ones, search engines have to guess. Decide which applies and write the file.",
+   "grad": 2,
+   "nytta": "low",
+   "insats": "small",
+   "foljd": "Search engines are given no guidance about the site, so pages you did not mean to publish can end up in search results.",
+   "kalla": "scan",
+   "skapad": "2026-10-17T05:40:22.439Z",
+   "beslut": null,
+   "beslutAt": null,
+   "uppdragId": null,
    "atgardad": null
   }
  ],
- "skannat": "2026-10-16T05:40:23.620Z",
+ "skannat": "2026-10-17T05:40:22.440Z",
  "ranson": {
-  "dag": "2026-10-16",
+  "dag": "2026-10-17",
   "nya": 13,
-  "kvar": 92,
+  "kvar": 94,
   "perProjekt": [
    {
     "projekt": "manadsavrakning",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 19
+    "kvar": 18
    },
    {
-    "projekt": "rutin.plaud-bt-synk",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
-   },
-   {
-    "projekt": "cynergi-med-flow",
+    "projekt": "quiz-runner",
     "niva": "platinum",
     "ranson": 5,
-    "nya": 3,
-    "kvar": 0
-   },
-   {
-    "projekt": "print-planer",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 1
+    "nya": 5,
+    "kvar": 6
    },
    {
     "projekt": "spelkontroll",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 9
+    "kvar": 8
+   },
+   {
+    "projekt": "tailscale-hemsidor",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 3
    },
    {
     "projekt": "aaron-prints",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 2
-   },
-   {
-    "projekt": "marcs-halsoai",
-    "niva": null,
-    "ranson": 1,
-    "nya": 1,
-    "kvar": 0
+    "kvar": 1
    },
    {
     "projekt": "medhop-daily",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 5
+    "kvar": 4
    },
    {
     "projekt": "patientfall-daily",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 32
+    "kvar": 31
+   },
+   {
+    "projekt": "print-planer",
+    "niva": null,
+    "ranson": 1,
+    "nya": 1,
+    "kvar": 0
    },
    {
     "projekt": "session-tracker",
     "niva": null,
     "ranson": 1,
     "nya": 1,
-    "kvar": 24
-   },
-   {
-    "projekt": "the-work-list",
-    "niva": "platinum",
-    "ranson": 5,
-    "nya": 1,
-    "kvar": 0
+    "kvar": 23
    }
   ]
  }
