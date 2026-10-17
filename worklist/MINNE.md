@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 17/10 16:00. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 17/10 20:01. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -23,7 +23,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 
 ## Just nu
 
-- Pass just nu: **Antigravity** · nästa pass: idag 18:00 (Claude)
+- Pass just nu: **Codex** · nästa pass: idag 22:00 (Antigravity)
 - Listan: 0 öppna · 0 pausade · 0 pågår
 - Claude: redo — last 15/10 13:22: klar
 - Codex: redo — last 12/10 15:46: klar
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 17/10 20:01 | Codex | schemat |  | pass-slut | pass 2026-10-17-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
+| 17/10 18:01 | Claude | schemat |  | pass-slut | pass 2026-10-17-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 17/10 16:00 | Antigravity | schemat |  | pass-slut | pass 2026-10-17-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 17/10 14:00 | Codex | schemat |  | pass-slut | pass 2026-10-17-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 17/10 12:00 | Claude | schemat |  | pass-slut | pass 2026-10-17-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 12/10 15:52 | Antigravity | Codex | #3887 | done | Diskmaskinen ren & tömd loggad 2026-10-12 15:38 (krypterat i data/valv/events.json.enc). Commit 6c9b276 pushad till origin/main på https://marcdshark666.github.io/husvakten/. · filer: data/valv/events.json.enc |  |
 | 12/10 15:52 | Antigravity | Codex | #3887 | note | Krypterad händelse (commit 6c9b276) pushad till origin/main och verifierad på GitHub Pages-repot. |  |
 | 12/10 15:49 | Antigravity | Codex | #3887 | start | Fortsätter med att kontrollera git push och Syncthing-foto för diskmaskinshändelsen · projekt husvakten |  |
-| 12/10 15:49 | Antigravity | schemat |  | pass | pass 2026-10-12-1548 börjar (reserven tar över): 1 att göra, turordning Antigravity |  |
-| 12/10 15:46 | Claude | bevakningen |  | pass-slut | pass 2026-10-12-1540 slut: 0 klara, 0 hinder, 1 kvar — Claude: kvoten är slut · Codex: klar | nästa pass 16:00 Antigravity |
