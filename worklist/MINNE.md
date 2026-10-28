@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 28/10 08:01. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 28/10 09:04. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 28/10 09:04 |  |  |  | not | Codex 28/10: 173 kanda videobeskrivningar oforandrade. Nasta omappade Desktop-fil ssstik.io_1789206026922.mp4 granskad vid 2 och 8 sekunder: morkt tangentbord med metallram; exakt modell kan inte sakert avlasas. Bildbevis och rapport state/codex-monitor-20261028.json sparade. Ingen kallkoppling gissad, inga publika andringar. Lagerkontroll och full audit kvarstar. | Fortsatt visuell modell- och kanalmatchning av omappade filer samt separat live lagerkontroll. Skyddade klipp far inte andras. |
 | 28/10 08:01 | Codex | schemat |  | pass-slut | pass 2026-10-28-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
 | 28/10 06:11 | Claude | schemat |  | pass-slut | pass 2026-10-28-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
 | 28/10 04:11 | Antigravity | schemat |  | pass-slut | pass 2026-10-28-0400 slut: 0 klara, 0 hinder, 0 kvar — fel: .data.lock togs över under arbetet — skriver INTE, annars försvinner uppdrag som kommit in under tiden | nästa pass 06:00 Claude |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 23/10 02:01 | Codex | schemat |  | pass-slut | pass 2026-10-23-0200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 04:00 Antigravity |
 | 23/10 00:02 | Claude | schemat |  | pass-slut | pass 2026-10-23-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 22/10 22:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-22-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
-| 22/10 20:01 | Codex | schemat |  | pass-slut | pass 2026-10-22-2000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
