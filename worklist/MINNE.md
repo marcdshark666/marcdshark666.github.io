@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 28/10 18:02. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 28/10 18:03. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -35,6 +35,8 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 28/10 18:03 | Claude | schemat |  | pass-slut | pass 2026-10-28-1800 slut: 0 klara, 0 hinder, 1 kvar — Claude: klar | nästa pass 20:00 Codex |
+| 28/10 18:03 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | steg-klart | Claude: klar (1 kvar) |  |
 | 28/10 18:02 | Claude | Claude | #7823 | paus | Obevakad körning kl 18: uppgiften kräver skärmstyrning av Marcs inloggade Chrome/Outlook och kan inte göras säkert när Marc kan använda datorn (regel: rör inte skärmen). Inget uppladdat ännu. Kvar: hämta 5 PDF ur Outlook, jämför mot 7 redan uppladdade i BT-portfolion, ladda upp enligt bt-start/files/bt-portfolio-uppladdning/LAS-MIG.md, verifiera per fil. Heartbeat/inloggning ej utrett. Kör via bev | nästa pass fortsätter där det slutade |
 | 28/10 18:02 | Claude | Claude | #7823 | start | Återupptar: kollar om skärmen är fri för uppladdning · projekt bt-start |  |
 | 28/10 18:02 | Claude | schemat |  | pass | pass 2026-10-28-1800 börjar (schemalagt pass): 1 att göra, turordning Claude → Codex → Antigravity |  |
@@ -113,5 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 24/10 13:34 |  |  |  | not | Marc instruktion 24/10: Codex jobbar på uppdragen tills Antigravity hoppar in och hjälper till. Jobba aldrig på samma uppdrag som Codex - koordinera emellan via Work List / minnet. | Koordinera uppdrag med Codex så ingen krock uppstår. |
 | 24/10 13:31 |  |  |  | not | Codex 24/10: kanalens beskrivningar omlasta med skyddad YouTube-fabrik och uploads-playlist avstamd mot tidigare ID:n. Inga nya ID:n eller andrade beskrivningar; 15 kanda direkta Amazon-taggfel kvar. AirPods-kortlank /6p leder fortfarande till B0DGW54P27 med US-taggen. Joseph Josephs produktdata kunde inte tolkas idag: lager OKANT. Telegram-inbox tom. Rapport state/codex-monitor-20261024.json; ful | Prioriterad uppfoljning: exakta ssstik-produktmatchningar, lager/leverans och ratt marknadskod. Respektera lankskydd och stopp; gamla lagerbevis far inte ateranvandas som dagens. |
 | 24/10 12:01 | Claude | schemat |  | pass-slut | pass 2026-10-24-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
-| 24/10 10:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-24-1000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
-| 24/10 08:01 | Codex | schemat |  | pass-slut | pass 2026-10-24-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
