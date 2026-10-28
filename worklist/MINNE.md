@@ -24,8 +24,8 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Antigravity** · nästa pass: idag 18:00 (Claude)
-- Listan: 1 öppna · 0 pausade · 0 pågår
-- Claude: redo — last 25/10 03:55: kvoten är slut
+- Listan: 0 öppna · 0 pausade · 1 pågår
+- Claude: kör — run 2026-10-28-1604 in progress
 - Codex: redo — last 25/10 03:55: klar
 - Antigravity: redo — last 12/10 15:55: klar
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 28/10 16:05 | Claude | Claude | #7808 | start | Tolkar avbruten röstinstruktion om Konversationsboten · projekt worklist-bots |  |
 | 28/10 16:05 | Claude | bevakningen |  | pass | pass 2026-10-28-1604 börjar (bevakningen): 1 att göra, turordning Claude → Codex → Antigravity |  |
 | 28/10 16:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-28-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 28/10 14:01 | Codex | schemat |  | pass-slut | pass 2026-10-28-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 23/10 14:01 | Codex | schemat |  | pass-slut | pass 2026-10-23-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
 | 23/10 12:01 | Claude | schemat |  | pass-slut | pass 2026-10-23-1200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 14:00 Codex |
 | 23/10 10:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-23-1000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
-| 23/10 08:01 | Codex | schemat |  | pass-slut | pass 2026-10-23-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
