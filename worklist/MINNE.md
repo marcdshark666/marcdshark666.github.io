@@ -1,6 +1,6 @@
 # The Work List — delat minne för Claude, Codex och Antigravity
 
-_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 28/10 18:11. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
+_Skrivs av `the-work-list/worklist.js` (kommandona start/note/done/fail/paus och varje pass). Senast 28/10 18:13. Läs den här filen FÖRST när du tar ett pass på listan. Skriv inte i den för hand — kör kommandona så hamnar det här; fri rad: `node worklist.js minne "text" --nasta "…"`. Rå logg: `worklist-minne.jsonl` bredvid. Listan: https://marcdshark666.github.io_
 
 ## Rotan — vem kollar listan när (Stockholm-tid, fyra pass per AI och dygn)
 
@@ -24,7 +24,7 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 0 öppna · 0 pausade · 2 pågår
+- Listan: 0 öppna · 0 pausade · 0 pågår
 - Claude: kör — run 2026-10-28-1810 in progress
 - Codex: redo — last 25/10 03:55: klar
 - Antigravity: redo — last 12/10 15:55: klar
@@ -35,6 +35,10 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 28/10 18:13 | Claude | Claude | #7823 | done | Inget att ladda upp: de 5 intygen låg redan i BT-portfolion (uppladdade 28/10 av Hund 2, CK-20261028-btintyg5), 13 dokument, inga dubbletter; verifierat via sidtext utan att röra skärmen. Bockat av i /bt Att göra. Heartbeat: Konversationsbotens uppdrag till Boss ej bekräftat levererat, portalen loggar ut vid inaktivitet, inget ändrat. https://desktop-r13nmtb.tailf9ee87.ts.net/bt/ · filer: files/ch |  |
+| 28/10 18:13 | Claude | Claude | #7823 | note | Bockat av i /bt → Att göra (checks.json: diplom+uppladdat för Antibiotika Smart, Läkemedelsgenomgångar, Handledning, DISA, Hållbarhet, Patientsäkerhet) och intyg/kurser/INDEX.md. Klarmarkering i portfolion görs av handledaren. |  |
+| 28/10 18:13 | Claude | Claude | #7823 | note | Verifierat via sidtext i portalen: alla 5 kvarvarande intyg (Antibiotika Smart, Fördjupad läkemedelsgenomgång, DISA, Grundläggande hållbarhet, Säker vård/patientsäkerhet) laddades upp 28/10 av Hund 2 BT-läkaren (CK-20261028-btintyg5). 13 personliga dokument totalt, inga dubbletter. Inget mer att ladda upp. |  |
+| 28/10 18:11 | Claude | Claude | #7859 | done | Tolkat: Marc ber mig bortse från den avklippta #7808 och fortsätta Konversationsboten som Grok-likt samtalsläge. Ingen ändring behövs: boten har redan läsverktyg, utredarregel och delegering till Boss (kallor.js, tillägg 6). Tips: skriv nya önskemål här. |  |
 | 28/10 18:11 | Claude | Claude | #7823 | start | Fortsätter: kollar användarguard (är Marc vid datorn?) innan skärmen rörs · projekt bt-start |  |
 | 28/10 18:11 | Claude | Claude | #7859 | start | Tolkar: Marc ber mig bortse från avklippta #7808 och fortsätta Konversationsboten (Grok-likt samtalsläge); kollar nuläget · projekt worklist-bots |  |
 | 28/10 18:11 | Claude | bevakningen |  | pass | pass 2026-10-28-1810 börjar (bevakningen): 2 att göra, turordning Claude → Codex → Antigravity |  |
@@ -111,7 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 25/10 01:44 |  |  |  | not | Claude CLI inloggad igen (Marc körde claude auth login). Alla tre steg (Claude, Codex, Antigravity) redo. | Claude tar köade ärenden och ordinarie pass. |
 | 25/10 00:01 | Claude | schemat |  | pass-slut | pass 2026-10-25-0000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 02:00 Codex |
 | 24/10 22:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-24-2200 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 00:00 Claude |
-| 24/10 21:32 | Claude | schemat |  | pass-slut | pass 2026-10-24-2130 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 22:00 Antigravity |
-| 24/10 18:01 | Claude | schemat |  | pass-slut | pass 2026-10-24-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
-| 24/10 16:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-24-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
-| 24/10 14:01 | Codex | schemat |  | pass-slut | pass 2026-10-24-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
