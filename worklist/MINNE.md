@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 28/10 18:11 | Claude | Claude | #7823 | start | Fortsätter: kollar användarguard (är Marc vid datorn?) innan skärmen rörs · projekt bt-start |  |
 | 28/10 18:11 | Claude | Claude | #7859 | start | Tolkar: Marc ber mig bortse från avklippta #7808 och fortsätta Konversationsboten (Grok-likt samtalsläge); kollar nuläget · projekt worklist-bots |  |
 | 28/10 18:11 | Claude | bevakningen |  | pass | pass 2026-10-28-1810 börjar (bevakningen): 2 att göra, turordning Claude → Codex → Antigravity |  |
 | 28/10 18:03 | Claude | schemat |  | pass-slut | pass 2026-10-28-1800 slut: 0 klara, 0 hinder, 1 kvar — Claude: klar | nästa pass 20:00 Codex |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 24/10 18:01 | Claude | schemat |  | pass-slut | pass 2026-10-24-1800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 20:00 Codex |
 | 24/10 16:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-24-1600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 18:00 Claude |
 | 24/10 14:01 | Codex | schemat |  | pass-slut | pass 2026-10-24-1400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 16:00 Antigravity |
-| 24/10 13:34 |  |  |  | not | Marc instruktion 24/10: Codex jobbar på uppdragen tills Antigravity hoppar in och hjälper till. Jobba aldrig på samma uppdrag som Codex - koordinera emellan via Work List / minnet. | Koordinera uppdrag med Codex så ingen krock uppstår. |
