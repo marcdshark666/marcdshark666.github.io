@@ -1,0 +1,44 @@
+{
+ "svar": {
+  "309": [
+   {
+    "id": "smu47p19rse6o",
+    "text": "Fixa så denna funkar åker inskickad",
+    "ja": null,
+    "at": "2026-09-16T14:44:30.255Z",
+    "fran": "sajten",
+    "synkad": true,
+    "atgard": "#309 tas upp igen, först i kön"
+   },
+   {
+    "id": "smu47p32naj3w",
+    "text": null,
+    "ja": "ja",
+    "at": "2026-09-16T14:44:32.591Z",
+    "fran": "sajten",
+    "synkad": true,
+    "atgard": "#309 tas upp igen, först i kön"
+   }
+  ],
+  "310": [
+   {
+    "id": "smu47ic825wok",
+    "text": "Verifiering av svarsflodet: detta svar ska hamna som ett steg pa uppdraget.",
+    "ja": null,
+    "at": "2026-09-16T14:39:17.858Z",
+    "fran": "datorn",
+    "synkad": true,
+    "atgard": "steg på #310"
+   },
+   {
+    "id": "smu47rgsmku84",
+    "text": "Slutprov fran sajtens eget API: detta ska bli ett steg inom en minut.",
+    "ja": null,
+    "at": "2026-09-16T14:46:23.686Z",
+    "fran": "sajten",
+    "synkad": true,
+    "atgard": "steg på #310"
+   }
+  ]
+ }
+}
