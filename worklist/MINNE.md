@@ -24,8 +24,8 @@ Turordningen är cyklisk (Claude → Codex → Antigravity → …): passets ste
 ## Just nu
 
 - Pass just nu: **Claude** · nästa pass: idag 20:00 (Codex)
-- Listan: 0 öppna · 1 pausade · 0 pågår
-- Claude: redo — last 28/10 16:44: klar
+- Listan: 0 öppna · 0 pausade · 1 pågår
+- Claude: kör — run 2026-10-28-1800 in progress
 - Codex: redo — last 25/10 03:55: klar
 - Antigravity: redo — last 12/10 15:55: klar
 
@@ -35,6 +35,7 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 
 | När | Steg | Hand | # | Händelse | Vad | Nästa |
 |---|---|---|---|---|---|---|
+| 28/10 18:02 | Claude | Claude | #7823 | start | Återupptar: kollar om skärmen är fri för uppladdning · projekt bt-start |  |
 | 28/10 18:02 | Claude | schemat |  | pass | pass 2026-10-28-1800 börjar (schemalagt pass): 1 att göra, turordning Claude → Codex → Antigravity |  |
 | 28/10 16:44 | Claude | bevakningen |  | pass-slut | pass 2026-10-28-1642 slut: 0 klara, 0 hinder, 1 kvar — Claude: klar | nästa pass 18:00 Claude |
 | 28/10 16:44 | Claude | Vakthund-platserna 1–8 (claude -p, upp till 8 parallellt) |  | steg-klart | Claude: klar (1 kvar) |  |
@@ -114,4 +115,3 @@ Kommandon: `node "E:\CHAT-RTX\CLAUDECODE GENERAL BRAIN\APP ideas\the-work-list\w
 | 24/10 10:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-24-1000 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 12:00 Claude |
 | 24/10 08:01 | Codex | schemat |  | pass-slut | pass 2026-10-24-0800 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 10:00 Antigravity |
 | 24/10 06:01 | Claude | schemat |  | pass-slut | pass 2026-10-24-0600 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 08:00 Codex |
-| 24/10 04:01 | Antigravity | schemat |  | pass-slut | pass 2026-10-24-0400 slut: 0 klara, 0 hinder, 0 kvar — inget att göra | nästa pass 06:00 Claude |
